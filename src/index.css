@@ -1,0 +1,28 @@
+:root {
+  --color-bg: #0f172a;
+  --color-surface: #1e293b;
+  --color-text: #e2e8f0;
+  --color-text-muted: #94a3b8;
+  --color-good: #34d399;
+  --color-warn: #fbbf24;
+  --color-bad: #f87171;
+  --space-2: 0.5rem;
+  --space-4: 1rem;
+  --space-6: 1.5rem;
+  --radius: 10px;
+  --color-series-planned: #94a3b8;
+  --color-series-actual: #38bdf8;
+  --color-grid: #334155;
+  --color-sev-critical: var(--color-bad);
+  --color-sev-high: var(--color-warn);
+  --color-sev-medium: #60a5fa;
+  --color-sev-low: var(--color-text-muted);
+}
+
+body {
+  margin: 0;
+  background: var(--color-bg);
+  color: var(--color-text);
+  font-family: system-ui, sans-serif;
+}
+

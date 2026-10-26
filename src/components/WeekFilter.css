@@ -1,0 +1,26 @@
+.filter-card {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-end;
+    gap: var(--space-6);
+    background: var(--color-surface);
+    border-radius: var(--radius);
+    padding: var(--space-4) var(--space-6);
+    margin-top: var(--space-6);
+}
+.filter-card label {
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-2);
+    color: var(--color-text-muted);
+    font-size: 0.85rem;
+    min-width: 200px;
+}
+.reset-btn {
+    background: transparent;
+    color: var(--color-text-muted);
+    border: 1px solid var(--color-grid);
+    border-radius: 6px;
+    padding: 0.25rem 0.75rem;
+    cursor: pointer;
+}

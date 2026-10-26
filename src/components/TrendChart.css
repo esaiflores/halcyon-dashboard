@@ -1,0 +1,27 @@
+.chart-card {
+    background: var(--color-surface);
+    border-radius: var(--radius);
+    padding: var(--space-4) var(--space-6);
+    margin-top: var(--space-6);
+}
+.chart-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: var(--space-4);
+}
+.chart-header h2 { margin: 0; font-size: 1.1rem; }
+.toggle { display: flex; gap: var(--space-2); }
+.toggle-btn {
+    background: transparent;
+    color: var(--color-text-muted);
+    border: 1px solid var(--color-grid);
+    border-radius: 6px;
+    padding: 0.25rem 0.75rem;
+    cursor: pointer;
+}
+.toggle-btn.active {
+    background: var(--color-series-actual);
+    color: var(--color-bg);
+    border-color: var(--color-series-actual);
+}

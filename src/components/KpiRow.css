@@ -1,0 +1,16 @@
+.kpi-row {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: var(--space-4);
+}
+.kpi-card {
+    background: var(--color-surface);
+    border-radius: var(--radius);
+    padding: var(--space-4) var(--space-6);
+    border-left: 4px solid var(--color-text-muted);
+}
+.kpi-card--good { border-left-color: var(--color-good); }
+.kpi-card--warn { border-left-color: var(--color-warn); }
+.kpi-card--bad  { border-left-color: var(--color-bad); }
+.kpi-label { color: var(--color-text-muted); font-size: 0.85rem; }
+.kpi-value { font-size: 1.75rem; font-weight: 600; margin-top: var(--space-2); }

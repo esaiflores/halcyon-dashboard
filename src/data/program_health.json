@@ -1,0 +1,4882 @@
+{
+  "program": {
+    "name": "Program HALCYON",
+    "note": "Fictional data for portfolio use",
+    "weeks": 52
+  },
+  "summary": {
+    "kpis": {
+      "units_delivered": 1566,
+      "units_planned": 1601,
+      "on_schedule_pct": 97.8,
+      "defect_rate_pct": 2.91,
+      "open_supplier_issues": 19,
+      "critical_open_issues": 3
+    },
+    "weekly_output": [
+      {
+        "week": 1,
+        "week_start": "2026-01-05",
+        "planned_units": 22,
+        "actual_units": 23,
+        "cum_planned": 22,
+        "cum_actual": 23
+      },
+      {
+        "week": 2,
+        "week_start": "2026-01-12",
+        "planned_units": 23,
+        "actual_units": 24,
+        "cum_planned": 45,
+        "cum_actual": 47
+      },
+      {
+        "week": 3,
+        "week_start": "2026-01-19",
+        "planned_units": 24,
+        "actual_units": 24,
+        "cum_planned": 69,
+        "cum_actual": 71
+      },
+      {
+        "week": 4,
+        "week_start": "2026-01-26",
+        "planned_units": 25,
+        "actual_units": 24,
+        "cum_planned": 94,
+        "cum_actual": 95
+      },
+      {
+        "week": 5,
+        "week_start": "2026-02-02",
+        "planned_units": 26,
+        "actual_units": 26,
+        "cum_planned": 120,
+        "cum_actual": 121
+      },
+      {
+        "week": 6,
+        "week_start": "2026-02-09",
+        "planned_units": 26,
+        "actual_units": 25,
+        "cum_planned": 146,
+        "cum_actual": 146
+      },
+      {
+        "week": 7,
+        "week_start": "2026-02-16",
+        "planned_units": 27,
+        "actual_units": 26,
+        "cum_planned": 173,
+        "cum_actual": 172
+      },
+      {
+        "week": 8,
+        "week_start": "2026-02-23",
+        "planned_units": 28,
+        "actual_units": 30,
+        "cum_planned": 201,
+        "cum_actual": 202
+      },
+      {
+        "week": 9,
+        "week_start": "2026-03-02",
+        "planned_units": 29,
+        "actual_units": 30,
+        "cum_planned": 230,
+        "cum_actual": 232
+      },
+      {
+        "week": 10,
+        "week_start": "2026-03-09",
+        "planned_units": 30,
+        "actual_units": 30,
+        "cum_planned": 260,
+        "cum_actual": 262
+      },
+      {
+        "week": 11,
+        "week_start": "2026-03-16",
+        "planned_units": 30,
+        "actual_units": 30,
+        "cum_planned": 290,
+        "cum_actual": 292
+      },
+      {
+        "week": 12,
+        "week_start": "2026-03-23",
+        "planned_units": 31,
+        "actual_units": 32,
+        "cum_planned": 321,
+        "cum_actual": 324
+      },
+      {
+        "week": 13,
+        "week_start": "2026-03-30",
+        "planned_units": 32,
+        "actual_units": 31,
+        "cum_planned": 353,
+        "cum_actual": 355
+      },
+      {
+        "week": 14,
+        "week_start": "2026-04-06",
+        "planned_units": 32,
+        "actual_units": 32,
+        "cum_planned": 385,
+        "cum_actual": 387
+      },
+      {
+        "week": 15,
+        "week_start": "2026-04-13",
+        "planned_units": 32,
+        "actual_units": 31,
+        "cum_planned": 417,
+        "cum_actual": 418
+      },
+      {
+        "week": 16,
+        "week_start": "2026-04-20",
+        "planned_units": 32,
+        "actual_units": 32,
+        "cum_planned": 449,
+        "cum_actual": 450
+      },
+      {
+        "week": 17,
+        "week_start": "2026-04-27",
+        "planned_units": 32,
+        "actual_units": 31,
+        "cum_planned": 481,
+        "cum_actual": 481
+      },
+      {
+        "week": 18,
+        "week_start": "2026-05-04",
+        "planned_units": 32,
+        "actual_units": 34,
+        "cum_planned": 513,
+        "cum_actual": 515
+      },
+      {
+        "week": 19,
+        "week_start": "2026-05-11",
+        "planned_units": 32,
+        "actual_units": 28,
+        "cum_planned": 545,
+        "cum_actual": 543
+      },
+      {
+        "week": 20,
+        "week_start": "2026-05-18",
+        "planned_units": 32,
+        "actual_units": 30,
+        "cum_planned": 577,
+        "cum_actual": 573
+      },
+      {
+        "week": 21,
+        "week_start": "2026-05-25",
+        "planned_units": 32,
+        "actual_units": 33,
+        "cum_planned": 609,
+        "cum_actual": 606
+      },
+      {
+        "week": 22,
+        "week_start": "2026-06-01",
+        "planned_units": 32,
+        "actual_units": 31,
+        "cum_planned": 641,
+        "cum_actual": 637
+      },
+      {
+        "week": 23,
+        "week_start": "2026-06-08",
+        "planned_units": 32,
+        "actual_units": 28,
+        "cum_planned": 673,
+        "cum_actual": 665
+      },
+      {
+        "week": 24,
+        "week_start": "2026-06-15",
+        "planned_units": 32,
+        "actual_units": 31,
+        "cum_planned": 705,
+        "cum_actual": 696
+      },
+      {
+        "week": 25,
+        "week_start": "2026-06-22",
+        "planned_units": 32,
+        "actual_units": 31,
+        "cum_planned": 737,
+        "cum_actual": 727
+      },
+      {
+        "week": 26,
+        "week_start": "2026-06-29",
+        "planned_units": 32,
+        "actual_units": 32,
+        "cum_planned": 769,
+        "cum_actual": 759
+      },
+      {
+        "week": 27,
+        "week_start": "2026-07-06",
+        "planned_units": 32,
+        "actual_units": 30,
+        "cum_planned": 801,
+        "cum_actual": 789
+      },
+      {
+        "week": 28,
+        "week_start": "2026-07-13",
+        "planned_units": 32,
+        "actual_units": 31,
+        "cum_planned": 833,
+        "cum_actual": 820
+      },
+      {
+        "week": 29,
+        "week_start": "2026-07-20",
+        "planned_units": 32,
+        "actual_units": 29,
+        "cum_planned": 865,
+        "cum_actual": 849
+      },
+      {
+        "week": 30,
+        "week_start": "2026-07-27",
+        "planned_units": 32,
+        "actual_units": 31,
+        "cum_planned": 897,
+        "cum_actual": 880
+      },
+      {
+        "week": 31,
+        "week_start": "2026-08-03",
+        "planned_units": 32,
+        "actual_units": 30,
+        "cum_planned": 929,
+        "cum_actual": 910
+      },
+      {
+        "week": 32,
+        "week_start": "2026-08-10",
+        "planned_units": 32,
+        "actual_units": 31,
+        "cum_planned": 961,
+        "cum_actual": 941
+      },
+      {
+        "week": 33,
+        "week_start": "2026-08-17",
+        "planned_units": 32,
+        "actual_units": 28,
+        "cum_planned": 993,
+        "cum_actual": 969
+      },
+      {
+        "week": 34,
+        "week_start": "2026-08-24",
+        "planned_units": 32,
+        "actual_units": 31,
+        "cum_planned": 1025,
+        "cum_actual": 1000
+      },
+      {
+        "week": 35,
+        "week_start": "2026-08-31",
+        "planned_units": 32,
+        "actual_units": 32,
+        "cum_planned": 1057,
+        "cum_actual": 1032
+      },
+      {
+        "week": 36,
+        "week_start": "2026-09-07",
+        "planned_units": 32,
+        "actual_units": 29,
+        "cum_planned": 1089,
+        "cum_actual": 1061
+      },
+      {
+        "week": 37,
+        "week_start": "2026-09-14",
+        "planned_units": 32,
+        "actual_units": 32,
+        "cum_planned": 1121,
+        "cum_actual": 1093
+      },
+      {
+        "week": 38,
+        "week_start": "2026-09-21",
+        "planned_units": 32,
+        "actual_units": 31,
+        "cum_planned": 1153,
+        "cum_actual": 1124
+      },
+      {
+        "week": 39,
+        "week_start": "2026-09-28",
+        "planned_units": 32,
+        "actual_units": 31,
+        "cum_planned": 1185,
+        "cum_actual": 1155
+      },
+      {
+        "week": 40,
+        "week_start": "2026-10-05",
+        "planned_units": 32,
+        "actual_units": 31,
+        "cum_planned": 1217,
+        "cum_actual": 1186
+      },
+      {
+        "week": 41,
+        "week_start": "2026-10-12",
+        "planned_units": 32,
+        "actual_units": 34,
+        "cum_planned": 1249,
+        "cum_actual": 1220
+      },
+      {
+        "week": 42,
+        "week_start": "2026-10-19",
+        "planned_units": 32,
+        "actual_units": 34,
+        "cum_planned": 1281,
+        "cum_actual": 1254
+      },
+      {
+        "week": 43,
+        "week_start": "2026-10-26",
+        "planned_units": 32,
+        "actual_units": 31,
+        "cum_planned": 1313,
+        "cum_actual": 1285
+      },
+      {
+        "week": 44,
+        "week_start": "2026-11-02",
+        "planned_units": 32,
+        "actual_units": 30,
+        "cum_planned": 1345,
+        "cum_actual": 1315
+      },
+      {
+        "week": 45,
+        "week_start": "2026-11-09",
+        "planned_units": 32,
+        "actual_units": 30,
+        "cum_planned": 1377,
+        "cum_actual": 1345
+      },
+      {
+        "week": 46,
+        "week_start": "2026-11-16",
+        "planned_units": 32,
+        "actual_units": 33,
+        "cum_planned": 1409,
+        "cum_actual": 1378
+      },
+      {
+        "week": 47,
+        "week_start": "2026-11-23",
+        "planned_units": 32,
+        "actual_units": 30,
+        "cum_planned": 1441,
+        "cum_actual": 1408
+      },
+      {
+        "week": 48,
+        "week_start": "2026-11-30",
+        "planned_units": 32,
+        "actual_units": 29,
+        "cum_planned": 1473,
+        "cum_actual": 1437
+      },
+      {
+        "week": 49,
+        "week_start": "2026-12-07",
+        "planned_units": 32,
+        "actual_units": 33,
+        "cum_planned": 1505,
+        "cum_actual": 1470
+      },
+      {
+        "week": 50,
+        "week_start": "2026-12-14",
+        "planned_units": 32,
+        "actual_units": 32,
+        "cum_planned": 1537,
+        "cum_actual": 1502
+      },
+      {
+        "week": 51,
+        "week_start": "2026-12-21",
+        "planned_units": 32,
+        "actual_units": 32,
+        "cum_planned": 1569,
+        "cum_actual": 1534
+      },
+      {
+        "week": 52,
+        "week_start": "2026-12-28",
+        "planned_units": 32,
+        "actual_units": 32,
+        "cum_planned": 1601,
+        "cum_actual": 1566
+      }
+    ],
+    "by_station": [
+      {
+        "station": "Receiving",
+        "planned": 2002,
+        "actual": 1939,
+        "defects": 18,
+        "downtime": 49.3,
+        "defect_rate": 0.0093,
+        "attainment": 0.9685
+      },
+      {
+        "station": "Machining",
+        "planned": 1900,
+        "actual": 1740,
+        "defects": 41,
+        "downtime": 127.10000000000001,
+        "defect_rate": 0.0236,
+        "attainment": 0.9158
+      },
+      {
+        "station": "Subassembly",
+        "planned": 1802,
+        "actual": 1634,
+        "defects": 71,
+        "downtime": 156.8,
+        "defect_rate": 0.0435,
+        "attainment": 0.9068
+      },
+      {
+        "station": "Propulsion Integration",
+        "planned": 1702,
+        "actual": 1444,
+        "defects": 78,
+        "downtime": 188.4,
+        "defect_rate": 0.054,
+        "attainment": 0.8484
+      },
+      {
+        "station": "Guidance Integration",
+        "planned": 1702,
+        "actual": 1499,
+        "defects": 77,
+        "downtime": 180.0,
+        "defect_rate": 0.0514,
+        "attainment": 0.8807
+      },
+      {
+        "station": "Final Assembly",
+        "planned": 1601,
+        "actual": 1460,
+        "defects": 51,
+        "downtime": 132.4,
+        "defect_rate": 0.0349,
+        "attainment": 0.9119
+      },
+      {
+        "station": "Test & Inspection",
+        "planned": 1601,
+        "actual": 1473,
+        "defects": 27,
+        "downtime": 117.5,
+        "defect_rate": 0.0183,
+        "attainment": 0.92
+      },
+      {
+        "station": "Packaging",
+        "planned": 1601,
+        "actual": 1566,
+        "defects": 8,
+        "downtime": 33.5,
+        "defect_rate": 0.0051,
+        "attainment": 0.9781
+      }
+    ]
+  },
+  "station_weeks": [
+    {
+      "week": 1,
+      "week_start": "2026-01-05",
+      "station": "Receiving",
+      "planned_units": 28,
+      "actual_units": 28,
+      "defects": 0,
+      "downtime_hours": 1.8
+    },
+    {
+      "week": 2,
+      "week_start": "2026-01-12",
+      "station": "Receiving",
+      "planned_units": 29,
+      "actual_units": 29,
+      "defects": 0,
+      "downtime_hours": 0.0
+    },
+    {
+      "week": 3,
+      "week_start": "2026-01-19",
+      "station": "Receiving",
+      "planned_units": 30,
+      "actual_units": 29,
+      "defects": 1,
+      "downtime_hours": 0.9
+    },
+    {
+      "week": 4,
+      "week_start": "2026-01-26",
+      "station": "Receiving",
+      "planned_units": 31,
+      "actual_units": 29,
+      "defects": 0,
+      "downtime_hours": 1.8
+    },
+    {
+      "week": 5,
+      "week_start": "2026-02-02",
+      "station": "Receiving",
+      "planned_units": 32,
+      "actual_units": 31,
+      "defects": 1,
+      "downtime_hours": 1.5
+    },
+    {
+      "week": 6,
+      "week_start": "2026-02-09",
+      "station": "Receiving",
+      "planned_units": 33,
+      "actual_units": 31,
+      "defects": 0,
+      "downtime_hours": 0.0
+    },
+    {
+      "week": 7,
+      "week_start": "2026-02-16",
+      "station": "Receiving",
+      "planned_units": 34,
+      "actual_units": 34,
+      "defects": 0,
+      "downtime_hours": 0.7
+    },
+    {
+      "week": 8,
+      "week_start": "2026-02-23",
+      "station": "Receiving",
+      "planned_units": 35,
+      "actual_units": 33,
+      "defects": 2,
+      "downtime_hours": 0.7
+    },
+    {
+      "week": 9,
+      "week_start": "2026-03-02",
+      "station": "Receiving",
+      "planned_units": 36,
+      "actual_units": 34,
+      "defects": 0,
+      "downtime_hours": 1.5
+    },
+    {
+      "week": 10,
+      "week_start": "2026-03-09",
+      "station": "Receiving",
+      "planned_units": 37,
+      "actual_units": 37,
+      "defects": 0,
+      "downtime_hours": 1.4
+    },
+    {
+      "week": 11,
+      "week_start": "2026-03-16",
+      "station": "Receiving",
+      "planned_units": 38,
+      "actual_units": 40,
+      "defects": 2,
+      "downtime_hours": 0.3
+    },
+    {
+      "week": 12,
+      "week_start": "2026-03-23",
+      "station": "Receiving",
+      "planned_units": 39,
+      "actual_units": 36,
+      "defects": 0,
+      "downtime_hours": 2.3
+    },
+    {
+      "week": 13,
+      "week_start": "2026-03-30",
+      "station": "Receiving",
+      "planned_units": 40,
+      "actual_units": 39,
+      "defects": 0,
+      "downtime_hours": 0.0
+    },
+    {
+      "week": 14,
+      "week_start": "2026-04-06",
+      "station": "Receiving",
+      "planned_units": 40,
+      "actual_units": 40,
+      "defects": 0,
+      "downtime_hours": 1.6
+    },
+    {
+      "week": 15,
+      "week_start": "2026-04-13",
+      "station": "Receiving",
+      "planned_units": 40,
+      "actual_units": 38,
+      "defects": 1,
+      "downtime_hours": 1.0
+    },
+    {
+      "week": 16,
+      "week_start": "2026-04-20",
+      "station": "Receiving",
+      "planned_units": 40,
+      "actual_units": 39,
+      "defects": 1,
+      "downtime_hours": 1.2
+    },
+    {
+      "week": 17,
+      "week_start": "2026-04-27",
+      "station": "Receiving",
+      "planned_units": 40,
+      "actual_units": 40,
+      "defects": 0,
+      "downtime_hours": 1.2
+    },
+    {
+      "week": 18,
+      "week_start": "2026-05-04",
+      "station": "Receiving",
+      "planned_units": 40,
+      "actual_units": 40,
+      "defects": 1,
+      "downtime_hours": 0.5
+    },
+    {
+      "week": 19,
+      "week_start": "2026-05-11",
+      "station": "Receiving",
+      "planned_units": 40,
+      "actual_units": 38,
+      "defects": 0,
+      "downtime_hours": 0.6
+    },
+    {
+      "week": 20,
+      "week_start": "2026-05-18",
+      "station": "Receiving",
+      "planned_units": 40,
+      "actual_units": 42,
+      "defects": 1,
+      "downtime_hours": 2.1
+    },
+    {
+      "week": 21,
+      "week_start": "2026-05-25",
+      "station": "Receiving",
+      "planned_units": 40,
+      "actual_units": 36,
+      "defects": 1,
+      "downtime_hours": 1.1
+    },
+    {
+      "week": 22,
+      "week_start": "2026-06-01",
+      "station": "Receiving",
+      "planned_units": 40,
+      "actual_units": 40,
+      "defects": 0,
+      "downtime_hours": 1.9
+    },
+    {
+      "week": 23,
+      "week_start": "2026-06-08",
+      "station": "Receiving",
+      "planned_units": 40,
+      "actual_units": 38,
+      "defects": 0,
+      "downtime_hours": 1.9
+    },
+    {
+      "week": 24,
+      "week_start": "2026-06-15",
+      "station": "Receiving",
+      "planned_units": 40,
+      "actual_units": 38,
+      "defects": 1,
+      "downtime_hours": 0.0
+    },
+    {
+      "week": 25,
+      "week_start": "2026-06-22",
+      "station": "Receiving",
+      "planned_units": 40,
+      "actual_units": 37,
+      "defects": 0,
+      "downtime_hours": 1.1
+    },
+    {
+      "week": 26,
+      "week_start": "2026-06-29",
+      "station": "Receiving",
+      "planned_units": 40,
+      "actual_units": 40,
+      "defects": 0,
+      "downtime_hours": 1.1
+    },
+    {
+      "week": 27,
+      "week_start": "2026-07-06",
+      "station": "Receiving",
+      "planned_units": 40,
+      "actual_units": 40,
+      "defects": 0,
+      "downtime_hours": 1.4
+    },
+    {
+      "week": 28,
+      "week_start": "2026-07-13",
+      "station": "Receiving",
+      "planned_units": 40,
+      "actual_units": 38,
+      "defects": 0,
+      "downtime_hours": 0.4
+    },
+    {
+      "week": 29,
+      "week_start": "2026-07-20",
+      "station": "Receiving",
+      "planned_units": 40,
+      "actual_units": 36,
+      "defects": 0,
+      "downtime_hours": 0.3
+    },
+    {
+      "week": 30,
+      "week_start": "2026-07-27",
+      "station": "Receiving",
+      "planned_units": 40,
+      "actual_units": 39,
+      "defects": 0,
+      "downtime_hours": 1.4
+    },
+    {
+      "week": 31,
+      "week_start": "2026-08-03",
+      "station": "Receiving",
+      "planned_units": 40,
+      "actual_units": 40,
+      "defects": 0,
+      "downtime_hours": 0.4
+    },
+    {
+      "week": 32,
+      "week_start": "2026-08-10",
+      "station": "Receiving",
+      "planned_units": 40,
+      "actual_units": 39,
+      "defects": 0,
+      "downtime_hours": 0.0
+    },
+    {
+      "week": 33,
+      "week_start": "2026-08-17",
+      "station": "Receiving",
+      "planned_units": 40,
+      "actual_units": 36,
+      "defects": 2,
+      "downtime_hours": 1.4
+    },
+    {
+      "week": 34,
+      "week_start": "2026-08-24",
+      "station": "Receiving",
+      "planned_units": 40,
+      "actual_units": 37,
+      "defects": 0,
+      "downtime_hours": 2.5
+    },
+    {
+      "week": 35,
+      "week_start": "2026-08-31",
+      "station": "Receiving",
+      "planned_units": 40,
+      "actual_units": 38,
+      "defects": 1,
+      "downtime_hours": 0.0
+    },
+    {
+      "week": 36,
+      "week_start": "2026-09-07",
+      "station": "Receiving",
+      "planned_units": 40,
+      "actual_units": 38,
+      "defects": 0,
+      "downtime_hours": 0.5
+    },
+    {
+      "week": 37,
+      "week_start": "2026-09-14",
+      "station": "Receiving",
+      "planned_units": 40,
+      "actual_units": 40,
+      "defects": 0,
+      "downtime_hours": 1.4
+    },
+    {
+      "week": 38,
+      "week_start": "2026-09-21",
+      "station": "Receiving",
+      "planned_units": 40,
+      "actual_units": 39,
+      "defects": 0,
+      "downtime_hours": 0.0
+    },
+    {
+      "week": 39,
+      "week_start": "2026-09-28",
+      "station": "Receiving",
+      "planned_units": 40,
+      "actual_units": 39,
+      "defects": 1,
+      "downtime_hours": 1.2
+    },
+    {
+      "week": 40,
+      "week_start": "2026-10-05",
+      "station": "Receiving",
+      "planned_units": 40,
+      "actual_units": 39,
+      "defects": 0,
+      "downtime_hours": 0.6
+    },
+    {
+      "week": 41,
+      "week_start": "2026-10-12",
+      "station": "Receiving",
+      "planned_units": 40,
+      "actual_units": 37,
+      "defects": 0,
+      "downtime_hours": 1.2
+    },
+    {
+      "week": 42,
+      "week_start": "2026-10-19",
+      "station": "Receiving",
+      "planned_units": 40,
+      "actual_units": 41,
+      "defects": 0,
+      "downtime_hours": 1.3
+    },
+    {
+      "week": 43,
+      "week_start": "2026-10-26",
+      "station": "Receiving",
+      "planned_units": 40,
+      "actual_units": 42,
+      "defects": 0,
+      "downtime_hours": 0.1
+    },
+    {
+      "week": 44,
+      "week_start": "2026-11-02",
+      "station": "Receiving",
+      "planned_units": 40,
+      "actual_units": 37,
+      "defects": 0,
+      "downtime_hours": 0.0
+    },
+    {
+      "week": 45,
+      "week_start": "2026-11-09",
+      "station": "Receiving",
+      "planned_units": 40,
+      "actual_units": 40,
+      "defects": 0,
+      "downtime_hours": 0.0
+    },
+    {
+      "week": 46,
+      "week_start": "2026-11-16",
+      "station": "Receiving",
+      "planned_units": 40,
+      "actual_units": 37,
+      "defects": 1,
+      "downtime_hours": 1.9
+    },
+    {
+      "week": 47,
+      "week_start": "2026-11-23",
+      "station": "Receiving",
+      "planned_units": 40,
+      "actual_units": 42,
+      "defects": 0,
+      "downtime_hours": 1.4
+    },
+    {
+      "week": 48,
+      "week_start": "2026-11-30",
+      "station": "Receiving",
+      "planned_units": 40,
+      "actual_units": 37,
+      "defects": 0,
+      "downtime_hours": 1.2
+    },
+    {
+      "week": 49,
+      "week_start": "2026-12-07",
+      "station": "Receiving",
+      "planned_units": 40,
+      "actual_units": 37,
+      "defects": 0,
+      "downtime_hours": 0.2
+    },
+    {
+      "week": 50,
+      "week_start": "2026-12-14",
+      "station": "Receiving",
+      "planned_units": 40,
+      "actual_units": 39,
+      "defects": 1,
+      "downtime_hours": 1.1
+    },
+    {
+      "week": 51,
+      "week_start": "2026-12-21",
+      "station": "Receiving",
+      "planned_units": 40,
+      "actual_units": 38,
+      "defects": 0,
+      "downtime_hours": 0.0
+    },
+    {
+      "week": 52,
+      "week_start": "2026-12-28",
+      "station": "Receiving",
+      "planned_units": 40,
+      "actual_units": 38,
+      "defects": 0,
+      "downtime_hours": 1.2
+    },
+    {
+      "week": 1,
+      "week_start": "2026-01-05",
+      "station": "Machining",
+      "planned_units": 27,
+      "actual_units": 27,
+      "defects": 1,
+      "downtime_hours": 3.6
+    },
+    {
+      "week": 2,
+      "week_start": "2026-01-12",
+      "station": "Machining",
+      "planned_units": 28,
+      "actual_units": 25,
+      "defects": 0,
+      "downtime_hours": 1.2
+    },
+    {
+      "week": 3,
+      "week_start": "2026-01-19",
+      "station": "Machining",
+      "planned_units": 28,
+      "actual_units": 25,
+      "defects": 0,
+      "downtime_hours": 1.4
+    },
+    {
+      "week": 4,
+      "week_start": "2026-01-26",
+      "station": "Machining",
+      "planned_units": 29,
+      "actual_units": 28,
+      "defects": 0,
+      "downtime_hours": 3.5
+    },
+    {
+      "week": 5,
+      "week_start": "2026-02-02",
+      "station": "Machining",
+      "planned_units": 30,
+      "actual_units": 28,
+      "defects": 1,
+      "downtime_hours": 2.4
+    },
+    {
+      "week": 6,
+      "week_start": "2026-02-09",
+      "station": "Machining",
+      "planned_units": 31,
+      "actual_units": 28,
+      "defects": 0,
+      "downtime_hours": 1.9
+    },
+    {
+      "week": 7,
+      "week_start": "2026-02-16",
+      "station": "Machining",
+      "planned_units": 32,
+      "actual_units": 28,
+      "defects": 4,
+      "downtime_hours": 2.6
+    },
+    {
+      "week": 8,
+      "week_start": "2026-02-23",
+      "station": "Machining",
+      "planned_units": 33,
+      "actual_units": 33,
+      "defects": 2,
+      "downtime_hours": 2.3
+    },
+    {
+      "week": 9,
+      "week_start": "2026-03-02",
+      "station": "Machining",
+      "planned_units": 34,
+      "actual_units": 32,
+      "defects": 0,
+      "downtime_hours": 2.7
+    },
+    {
+      "week": 10,
+      "week_start": "2026-03-09",
+      "station": "Machining",
+      "planned_units": 35,
+      "actual_units": 32,
+      "defects": 0,
+      "downtime_hours": 2.9
+    },
+    {
+      "week": 11,
+      "week_start": "2026-03-16",
+      "station": "Machining",
+      "planned_units": 36,
+      "actual_units": 36,
+      "defects": 0,
+      "downtime_hours": 0.9
+    },
+    {
+      "week": 12,
+      "week_start": "2026-03-23",
+      "station": "Machining",
+      "planned_units": 37,
+      "actual_units": 32,
+      "defects": 0,
+      "downtime_hours": 4.5
+    },
+    {
+      "week": 13,
+      "week_start": "2026-03-30",
+      "station": "Machining",
+      "planned_units": 38,
+      "actual_units": 35,
+      "defects": 0,
+      "downtime_hours": 4.2
+    },
+    {
+      "week": 14,
+      "week_start": "2026-04-06",
+      "station": "Machining",
+      "planned_units": 38,
+      "actual_units": 33,
+      "defects": 0,
+      "downtime_hours": 3.2
+    },
+    {
+      "week": 15,
+      "week_start": "2026-04-13",
+      "station": "Machining",
+      "planned_units": 38,
+      "actual_units": 34,
+      "defects": 1,
+      "downtime_hours": 2.2
+    },
+    {
+      "week": 16,
+      "week_start": "2026-04-20",
+      "station": "Machining",
+      "planned_units": 38,
+      "actual_units": 36,
+      "defects": 0,
+      "downtime_hours": 2.5
+    },
+    {
+      "week": 17,
+      "week_start": "2026-04-27",
+      "station": "Machining",
+      "planned_units": 38,
+      "actual_units": 36,
+      "defects": 0,
+      "downtime_hours": 2.3
+    },
+    {
+      "week": 18,
+      "week_start": "2026-05-04",
+      "station": "Machining",
+      "planned_units": 38,
+      "actual_units": 33,
+      "defects": 1,
+      "downtime_hours": 1.3
+    },
+    {
+      "week": 19,
+      "week_start": "2026-05-11",
+      "station": "Machining",
+      "planned_units": 38,
+      "actual_units": 34,
+      "defects": 1,
+      "downtime_hours": 0.8
+    },
+    {
+      "week": 20,
+      "week_start": "2026-05-18",
+      "station": "Machining",
+      "planned_units": 38,
+      "actual_units": 35,
+      "defects": 0,
+      "downtime_hours": 3.0
+    },
+    {
+      "week": 21,
+      "week_start": "2026-05-25",
+      "station": "Machining",
+      "planned_units": 38,
+      "actual_units": 34,
+      "defects": 0,
+      "downtime_hours": 3.6
+    },
+    {
+      "week": 22,
+      "week_start": "2026-06-01",
+      "station": "Machining",
+      "planned_units": 38,
+      "actual_units": 36,
+      "defects": 3,
+      "downtime_hours": 2.2
+    },
+    {
+      "week": 23,
+      "week_start": "2026-06-08",
+      "station": "Machining",
+      "planned_units": 38,
+      "actual_units": 34,
+      "defects": 0,
+      "downtime_hours": 2.7
+    },
+    {
+      "week": 24,
+      "week_start": "2026-06-15",
+      "station": "Machining",
+      "planned_units": 38,
+      "actual_units": 35,
+      "defects": 0,
+      "downtime_hours": 2.5
+    },
+    {
+      "week": 25,
+      "week_start": "2026-06-22",
+      "station": "Machining",
+      "planned_units": 38,
+      "actual_units": 35,
+      "defects": 3,
+      "downtime_hours": 4.7
+    },
+    {
+      "week": 26,
+      "week_start": "2026-06-29",
+      "station": "Machining",
+      "planned_units": 38,
+      "actual_units": 33,
+      "defects": 2,
+      "downtime_hours": 0.6
+    },
+    {
+      "week": 27,
+      "week_start": "2026-07-06",
+      "station": "Machining",
+      "planned_units": 38,
+      "actual_units": 34,
+      "defects": 0,
+      "downtime_hours": 3.8
+    },
+    {
+      "week": 28,
+      "week_start": "2026-07-13",
+      "station": "Machining",
+      "planned_units": 38,
+      "actual_units": 34,
+      "defects": 2,
+      "downtime_hours": 0.0
+    },
+    {
+      "week": 29,
+      "week_start": "2026-07-20",
+      "station": "Machining",
+      "planned_units": 38,
+      "actual_units": 35,
+      "defects": 1,
+      "downtime_hours": 1.8
+    },
+    {
+      "week": 30,
+      "week_start": "2026-07-27",
+      "station": "Machining",
+      "planned_units": 38,
+      "actual_units": 33,
+      "defects": 1,
+      "downtime_hours": 0.3
+    },
+    {
+      "week": 31,
+      "week_start": "2026-08-03",
+      "station": "Machining",
+      "planned_units": 38,
+      "actual_units": 32,
+      "defects": 0,
+      "downtime_hours": 0.9
+    },
+    {
+      "week": 32,
+      "week_start": "2026-08-10",
+      "station": "Machining",
+      "planned_units": 38,
+      "actual_units": 33,
+      "defects": 2,
+      "downtime_hours": 5.9
+    },
+    {
+      "week": 33,
+      "week_start": "2026-08-17",
+      "station": "Machining",
+      "planned_units": 38,
+      "actual_units": 33,
+      "defects": 1,
+      "downtime_hours": 2.8
+    },
+    {
+      "week": 34,
+      "week_start": "2026-08-24",
+      "station": "Machining",
+      "planned_units": 38,
+      "actual_units": 38,
+      "defects": 0,
+      "downtime_hours": 2.1
+    },
+    {
+      "week": 35,
+      "week_start": "2026-08-31",
+      "station": "Machining",
+      "planned_units": 38,
+      "actual_units": 36,
+      "defects": 0,
+      "downtime_hours": 1.9
+    },
+    {
+      "week": 36,
+      "week_start": "2026-09-07",
+      "station": "Machining",
+      "planned_units": 38,
+      "actual_units": 35,
+      "defects": 0,
+      "downtime_hours": 2.1
+    },
+    {
+      "week": 37,
+      "week_start": "2026-09-14",
+      "station": "Machining",
+      "planned_units": 38,
+      "actual_units": 34,
+      "defects": 0,
+      "downtime_hours": 1.7
+    },
+    {
+      "week": 38,
+      "week_start": "2026-09-21",
+      "station": "Machining",
+      "planned_units": 38,
+      "actual_units": 36,
+      "defects": 1,
+      "downtime_hours": 2.6
+    },
+    {
+      "week": 39,
+      "week_start": "2026-09-28",
+      "station": "Machining",
+      "planned_units": 38,
+      "actual_units": 36,
+      "defects": 1,
+      "downtime_hours": 2.4
+    },
+    {
+      "week": 40,
+      "week_start": "2026-10-05",
+      "station": "Machining",
+      "planned_units": 38,
+      "actual_units": 34,
+      "defects": 0,
+      "downtime_hours": 2.3
+    },
+    {
+      "week": 41,
+      "week_start": "2026-10-12",
+      "station": "Machining",
+      "planned_units": 38,
+      "actual_units": 39,
+      "defects": 1,
+      "downtime_hours": 2.9
+    },
+    {
+      "week": 42,
+      "week_start": "2026-10-19",
+      "station": "Machining",
+      "planned_units": 38,
+      "actual_units": 34,
+      "defects": 1,
+      "downtime_hours": 2.7
+    },
+    {
+      "week": 43,
+      "week_start": "2026-10-26",
+      "station": "Machining",
+      "planned_units": 38,
+      "actual_units": 33,
+      "defects": 2,
+      "downtime_hours": 2.7
+    },
+    {
+      "week": 44,
+      "week_start": "2026-11-02",
+      "station": "Machining",
+      "planned_units": 38,
+      "actual_units": 36,
+      "defects": 0,
+      "downtime_hours": 3.5
+    },
+    {
+      "week": 45,
+      "week_start": "2026-11-09",
+      "station": "Machining",
+      "planned_units": 38,
+      "actual_units": 36,
+      "defects": 4,
+      "downtime_hours": 1.8
+    },
+    {
+      "week": 46,
+      "week_start": "2026-11-16",
+      "station": "Machining",
+      "planned_units": 38,
+      "actual_units": 35,
+      "defects": 1,
+      "downtime_hours": 2.0
+    },
+    {
+      "week": 47,
+      "week_start": "2026-11-23",
+      "station": "Machining",
+      "planned_units": 38,
+      "actual_units": 35,
+      "defects": 1,
+      "downtime_hours": 2.6
+    },
+    {
+      "week": 48,
+      "week_start": "2026-11-30",
+      "station": "Machining",
+      "planned_units": 38,
+      "actual_units": 38,
+      "defects": 1,
+      "downtime_hours": 2.1
+    },
+    {
+      "week": 49,
+      "week_start": "2026-12-07",
+      "station": "Machining",
+      "planned_units": 38,
+      "actual_units": 35,
+      "defects": 0,
+      "downtime_hours": 2.0
+    },
+    {
+      "week": 50,
+      "week_start": "2026-12-14",
+      "station": "Machining",
+      "planned_units": 38,
+      "actual_units": 32,
+      "defects": 1,
+      "downtime_hours": 4.5
+    },
+    {
+      "week": 51,
+      "week_start": "2026-12-21",
+      "station": "Machining",
+      "planned_units": 38,
+      "actual_units": 32,
+      "defects": 0,
+      "downtime_hours": 2.0
+    },
+    {
+      "week": 52,
+      "week_start": "2026-12-28",
+      "station": "Machining",
+      "planned_units": 38,
+      "actual_units": 35,
+      "defects": 1,
+      "downtime_hours": 2.0
+    },
+    {
+      "week": 1,
+      "week_start": "2026-01-05",
+      "station": "Subassembly",
+      "planned_units": 25,
+      "actual_units": 24,
+      "defects": 2,
+      "downtime_hours": 5.1
+    },
+    {
+      "week": 2,
+      "week_start": "2026-01-12",
+      "station": "Subassembly",
+      "planned_units": 26,
+      "actual_units": 25,
+      "defects": 1,
+      "downtime_hours": 5.1
+    },
+    {
+      "week": 3,
+      "week_start": "2026-01-19",
+      "station": "Subassembly",
+      "planned_units": 27,
+      "actual_units": 25,
+      "defects": 2,
+      "downtime_hours": 2.6
+    },
+    {
+      "week": 4,
+      "week_start": "2026-01-26",
+      "station": "Subassembly",
+      "planned_units": 28,
+      "actual_units": 25,
+      "defects": 0,
+      "downtime_hours": 4.2
+    },
+    {
+      "week": 5,
+      "week_start": "2026-02-02",
+      "station": "Subassembly",
+      "planned_units": 29,
+      "actual_units": 25,
+      "defects": 1,
+      "downtime_hours": 2.8
+    },
+    {
+      "week": 6,
+      "week_start": "2026-02-09",
+      "station": "Subassembly",
+      "planned_units": 30,
+      "actual_units": 29,
+      "defects": 0,
+      "downtime_hours": 5.2
+    },
+    {
+      "week": 7,
+      "week_start": "2026-02-16",
+      "station": "Subassembly",
+      "planned_units": 31,
+      "actual_units": 29,
+      "defects": 3,
+      "downtime_hours": 2.9
+    },
+    {
+      "week": 8,
+      "week_start": "2026-02-23",
+      "station": "Subassembly",
+      "planned_units": 32,
+      "actual_units": 27,
+      "defects": 2,
+      "downtime_hours": 4.8
+    },
+    {
+      "week": 9,
+      "week_start": "2026-03-02",
+      "station": "Subassembly",
+      "planned_units": 32,
+      "actual_units": 30,
+      "defects": 2,
+      "downtime_hours": 1.8
+    },
+    {
+      "week": 10,
+      "week_start": "2026-03-09",
+      "station": "Subassembly",
+      "planned_units": 33,
+      "actual_units": 30,
+      "defects": 1,
+      "downtime_hours": 2.2
+    },
+    {
+      "week": 11,
+      "week_start": "2026-03-16",
+      "station": "Subassembly",
+      "planned_units": 34,
+      "actual_units": 31,
+      "defects": 1,
+      "downtime_hours": 3.7
+    },
+    {
+      "week": 12,
+      "week_start": "2026-03-23",
+      "station": "Subassembly",
+      "planned_units": 35,
+      "actual_units": 28,
+      "defects": 1,
+      "downtime_hours": 3.1
+    },
+    {
+      "week": 13,
+      "week_start": "2026-03-30",
+      "station": "Subassembly",
+      "planned_units": 36,
+      "actual_units": 33,
+      "defects": 1,
+      "downtime_hours": 0.5
+    },
+    {
+      "week": 14,
+      "week_start": "2026-04-06",
+      "station": "Subassembly",
+      "planned_units": 36,
+      "actual_units": 31,
+      "defects": 0,
+      "downtime_hours": 1.1
+    },
+    {
+      "week": 15,
+      "week_start": "2026-04-13",
+      "station": "Subassembly",
+      "planned_units": 36,
+      "actual_units": 35,
+      "defects": 2,
+      "downtime_hours": 4.0
+    },
+    {
+      "week": 16,
+      "week_start": "2026-04-20",
+      "station": "Subassembly",
+      "planned_units": 36,
+      "actual_units": 31,
+      "defects": 2,
+      "downtime_hours": 4.3
+    },
+    {
+      "week": 17,
+      "week_start": "2026-04-27",
+      "station": "Subassembly",
+      "planned_units": 36,
+      "actual_units": 33,
+      "defects": 2,
+      "downtime_hours": 3.3
+    },
+    {
+      "week": 18,
+      "week_start": "2026-05-04",
+      "station": "Subassembly",
+      "planned_units": 36,
+      "actual_units": 31,
+      "defects": 1,
+      "downtime_hours": 2.8
+    },
+    {
+      "week": 19,
+      "week_start": "2026-05-11",
+      "station": "Subassembly",
+      "planned_units": 36,
+      "actual_units": 33,
+      "defects": 3,
+      "downtime_hours": 1.7
+    },
+    {
+      "week": 20,
+      "week_start": "2026-05-18",
+      "station": "Subassembly",
+      "planned_units": 36,
+      "actual_units": 32,
+      "defects": 2,
+      "downtime_hours": 2.1
+    },
+    {
+      "week": 21,
+      "week_start": "2026-05-25",
+      "station": "Subassembly",
+      "planned_units": 36,
+      "actual_units": 31,
+      "defects": 2,
+      "downtime_hours": 4.0
+    },
+    {
+      "week": 22,
+      "week_start": "2026-06-01",
+      "station": "Subassembly",
+      "planned_units": 36,
+      "actual_units": 32,
+      "defects": 4,
+      "downtime_hours": 4.0
+    },
+    {
+      "week": 23,
+      "week_start": "2026-06-08",
+      "station": "Subassembly",
+      "planned_units": 36,
+      "actual_units": 34,
+      "defects": 0,
+      "downtime_hours": 5.8
+    },
+    {
+      "week": 24,
+      "week_start": "2026-06-15",
+      "station": "Subassembly",
+      "planned_units": 36,
+      "actual_units": 32,
+      "defects": 0,
+      "downtime_hours": 4.9
+    },
+    {
+      "week": 25,
+      "week_start": "2026-06-22",
+      "station": "Subassembly",
+      "planned_units": 36,
+      "actual_units": 32,
+      "defects": 0,
+      "downtime_hours": 4.6
+    },
+    {
+      "week": 26,
+      "week_start": "2026-06-29",
+      "station": "Subassembly",
+      "planned_units": 36,
+      "actual_units": 30,
+      "defects": 1,
+      "downtime_hours": 1.1
+    },
+    {
+      "week": 27,
+      "week_start": "2026-07-06",
+      "station": "Subassembly",
+      "planned_units": 36,
+      "actual_units": 31,
+      "defects": 1,
+      "downtime_hours": 3.6
+    },
+    {
+      "week": 28,
+      "week_start": "2026-07-13",
+      "station": "Subassembly",
+      "planned_units": 36,
+      "actual_units": 33,
+      "defects": 0,
+      "downtime_hours": 0.2
+    },
+    {
+      "week": 29,
+      "week_start": "2026-07-20",
+      "station": "Subassembly",
+      "planned_units": 36,
+      "actual_units": 32,
+      "defects": 1,
+      "downtime_hours": 3.6
+    },
+    {
+      "week": 30,
+      "week_start": "2026-07-27",
+      "station": "Subassembly",
+      "planned_units": 36,
+      "actual_units": 34,
+      "defects": 6,
+      "downtime_hours": 2.2
+    },
+    {
+      "week": 31,
+      "week_start": "2026-08-03",
+      "station": "Subassembly",
+      "planned_units": 36,
+      "actual_units": 33,
+      "defects": 0,
+      "downtime_hours": 3.3
+    },
+    {
+      "week": 32,
+      "week_start": "2026-08-10",
+      "station": "Subassembly",
+      "planned_units": 36,
+      "actual_units": 33,
+      "defects": 0,
+      "downtime_hours": 2.8
+    },
+    {
+      "week": 33,
+      "week_start": "2026-08-17",
+      "station": "Subassembly",
+      "planned_units": 36,
+      "actual_units": 33,
+      "defects": 0,
+      "downtime_hours": 2.5
+    },
+    {
+      "week": 34,
+      "week_start": "2026-08-24",
+      "station": "Subassembly",
+      "planned_units": 36,
+      "actual_units": 33,
+      "defects": 0,
+      "downtime_hours": 2.9
+    },
+    {
+      "week": 35,
+      "week_start": "2026-08-31",
+      "station": "Subassembly",
+      "planned_units": 36,
+      "actual_units": 34,
+      "defects": 2,
+      "downtime_hours": 1.4
+    },
+    {
+      "week": 36,
+      "week_start": "2026-09-07",
+      "station": "Subassembly",
+      "planned_units": 36,
+      "actual_units": 30,
+      "defects": 2,
+      "downtime_hours": 2.2
+    },
+    {
+      "week": 37,
+      "week_start": "2026-09-14",
+      "station": "Subassembly",
+      "planned_units": 36,
+      "actual_units": 34,
+      "defects": 3,
+      "downtime_hours": 3.2
+    },
+    {
+      "week": 38,
+      "week_start": "2026-09-21",
+      "station": "Subassembly",
+      "planned_units": 36,
+      "actual_units": 34,
+      "defects": 2,
+      "downtime_hours": 2.9
+    },
+    {
+      "week": 39,
+      "week_start": "2026-09-28",
+      "station": "Subassembly",
+      "planned_units": 36,
+      "actual_units": 35,
+      "defects": 2,
+      "downtime_hours": 2.0
+    },
+    {
+      "week": 40,
+      "week_start": "2026-10-05",
+      "station": "Subassembly",
+      "planned_units": 36,
+      "actual_units": 31,
+      "defects": 2,
+      "downtime_hours": 1.9
+    },
+    {
+      "week": 41,
+      "week_start": "2026-10-12",
+      "station": "Subassembly",
+      "planned_units": 36,
+      "actual_units": 32,
+      "defects": 2,
+      "downtime_hours": 5.1
+    },
+    {
+      "week": 42,
+      "week_start": "2026-10-19",
+      "station": "Subassembly",
+      "planned_units": 36,
+      "actual_units": 30,
+      "defects": 0,
+      "downtime_hours": 1.8
+    },
+    {
+      "week": 43,
+      "week_start": "2026-10-26",
+      "station": "Subassembly",
+      "planned_units": 36,
+      "actual_units": 33,
+      "defects": 3,
+      "downtime_hours": 0.8
+    },
+    {
+      "week": 44,
+      "week_start": "2026-11-02",
+      "station": "Subassembly",
+      "planned_units": 36,
+      "actual_units": 34,
+      "defects": 0,
+      "downtime_hours": 2.4
+    },
+    {
+      "week": 45,
+      "week_start": "2026-11-09",
+      "station": "Subassembly",
+      "planned_units": 36,
+      "actual_units": 31,
+      "defects": 1,
+      "downtime_hours": 3.5
+    },
+    {
+      "week": 46,
+      "week_start": "2026-11-16",
+      "station": "Subassembly",
+      "planned_units": 36,
+      "actual_units": 32,
+      "defects": 1,
+      "downtime_hours": 3.4
+    },
+    {
+      "week": 47,
+      "week_start": "2026-11-23",
+      "station": "Subassembly",
+      "planned_units": 36,
+      "actual_units": 35,
+      "defects": 1,
+      "downtime_hours": 1.2
+    },
+    {
+      "week": 48,
+      "week_start": "2026-11-30",
+      "station": "Subassembly",
+      "planned_units": 36,
+      "actual_units": 34,
+      "defects": 2,
+      "downtime_hours": 4.3
+    },
+    {
+      "week": 49,
+      "week_start": "2026-12-07",
+      "station": "Subassembly",
+      "planned_units": 36,
+      "actual_units": 33,
+      "defects": 1,
+      "downtime_hours": 3.4
+    },
+    {
+      "week": 50,
+      "week_start": "2026-12-14",
+      "station": "Subassembly",
+      "planned_units": 36,
+      "actual_units": 36,
+      "defects": 0,
+      "downtime_hours": 3.1
+    },
+    {
+      "week": 51,
+      "week_start": "2026-12-21",
+      "station": "Subassembly",
+      "planned_units": 36,
+      "actual_units": 33,
+      "defects": 1,
+      "downtime_hours": 2.0
+    },
+    {
+      "week": 52,
+      "week_start": "2026-12-28",
+      "station": "Subassembly",
+      "planned_units": 36,
+      "actual_units": 33,
+      "defects": 2,
+      "downtime_hours": 3.4
+    },
+    {
+      "week": 1,
+      "week_start": "2026-01-05",
+      "station": "Propulsion Integration",
+      "planned_units": 24,
+      "actual_units": 20,
+      "defects": 0,
+      "downtime_hours": 1.1
+    },
+    {
+      "week": 2,
+      "week_start": "2026-01-12",
+      "station": "Propulsion Integration",
+      "planned_units": 25,
+      "actual_units": 21,
+      "defects": 0,
+      "downtime_hours": 3.2
+    },
+    {
+      "week": 3,
+      "week_start": "2026-01-19",
+      "station": "Propulsion Integration",
+      "planned_units": 26,
+      "actual_units": 25,
+      "defects": 0,
+      "downtime_hours": 2.4
+    },
+    {
+      "week": 4,
+      "week_start": "2026-01-26",
+      "station": "Propulsion Integration",
+      "planned_units": 26,
+      "actual_units": 23,
+      "defects": 2,
+      "downtime_hours": 3.3
+    },
+    {
+      "week": 5,
+      "week_start": "2026-02-02",
+      "station": "Propulsion Integration",
+      "planned_units": 27,
+      "actual_units": 24,
+      "defects": 1,
+      "downtime_hours": 3.2
+    },
+    {
+      "week": 6,
+      "week_start": "2026-02-09",
+      "station": "Propulsion Integration",
+      "planned_units": 28,
+      "actual_units": 26,
+      "defects": 1,
+      "downtime_hours": 3.6
+    },
+    {
+      "week": 7,
+      "week_start": "2026-02-16",
+      "station": "Propulsion Integration",
+      "planned_units": 29,
+      "actual_units": 29,
+      "defects": 1,
+      "downtime_hours": 5.3
+    },
+    {
+      "week": 8,
+      "week_start": "2026-02-23",
+      "station": "Propulsion Integration",
+      "planned_units": 30,
+      "actual_units": 27,
+      "defects": 3,
+      "downtime_hours": 3.5
+    },
+    {
+      "week": 9,
+      "week_start": "2026-03-02",
+      "station": "Propulsion Integration",
+      "planned_units": 31,
+      "actual_units": 27,
+      "defects": 2,
+      "downtime_hours": 4.1
+    },
+    {
+      "week": 10,
+      "week_start": "2026-03-09",
+      "station": "Propulsion Integration",
+      "planned_units": 31,
+      "actual_units": 26,
+      "defects": 1,
+      "downtime_hours": 4.3
+    },
+    {
+      "week": 11,
+      "week_start": "2026-03-16",
+      "station": "Propulsion Integration",
+      "planned_units": 32,
+      "actual_units": 29,
+      "defects": 3,
+      "downtime_hours": 4.0
+    },
+    {
+      "week": 12,
+      "week_start": "2026-03-23",
+      "station": "Propulsion Integration",
+      "planned_units": 33,
+      "actual_units": 29,
+      "defects": 1,
+      "downtime_hours": 3.2
+    },
+    {
+      "week": 13,
+      "week_start": "2026-03-30",
+      "station": "Propulsion Integration",
+      "planned_units": 34,
+      "actual_units": 31,
+      "defects": 2,
+      "downtime_hours": 3.2
+    },
+    {
+      "week": 14,
+      "week_start": "2026-04-06",
+      "station": "Propulsion Integration",
+      "planned_units": 34,
+      "actual_units": 27,
+      "defects": 3,
+      "downtime_hours": 5.2
+    },
+    {
+      "week": 15,
+      "week_start": "2026-04-13",
+      "station": "Propulsion Integration",
+      "planned_units": 34,
+      "actual_units": 31,
+      "defects": 2,
+      "downtime_hours": 1.8
+    },
+    {
+      "week": 16,
+      "week_start": "2026-04-20",
+      "station": "Propulsion Integration",
+      "planned_units": 34,
+      "actual_units": 25,
+      "defects": 3,
+      "downtime_hours": 6.5
+    },
+    {
+      "week": 17,
+      "week_start": "2026-04-27",
+      "station": "Propulsion Integration",
+      "planned_units": 34,
+      "actual_units": 31,
+      "defects": 1,
+      "downtime_hours": 4.2
+    },
+    {
+      "week": 18,
+      "week_start": "2026-05-04",
+      "station": "Propulsion Integration",
+      "planned_units": 34,
+      "actual_units": 28,
+      "defects": 1,
+      "downtime_hours": 3.7
+    },
+    {
+      "week": 19,
+      "week_start": "2026-05-11",
+      "station": "Propulsion Integration",
+      "planned_units": 34,
+      "actual_units": 30,
+      "defects": 0,
+      "downtime_hours": 4.0
+    },
+    {
+      "week": 20,
+      "week_start": "2026-05-18",
+      "station": "Propulsion Integration",
+      "planned_units": 34,
+      "actual_units": 31,
+      "defects": 0,
+      "downtime_hours": 4.7
+    },
+    {
+      "week": 21,
+      "week_start": "2026-05-25",
+      "station": "Propulsion Integration",
+      "planned_units": 34,
+      "actual_units": 25,
+      "defects": 1,
+      "downtime_hours": 2.5
+    },
+    {
+      "week": 22,
+      "week_start": "2026-06-01",
+      "station": "Propulsion Integration",
+      "planned_units": 34,
+      "actual_units": 25,
+      "defects": 0,
+      "downtime_hours": 5.3
+    },
+    {
+      "week": 23,
+      "week_start": "2026-06-08",
+      "station": "Propulsion Integration",
+      "planned_units": 34,
+      "actual_units": 23,
+      "defects": 0,
+      "downtime_hours": 3.8
+    },
+    {
+      "week": 24,
+      "week_start": "2026-06-15",
+      "station": "Propulsion Integration",
+      "planned_units": 34,
+      "actual_units": 24,
+      "defects": 1,
+      "downtime_hours": 3.2
+    },
+    {
+      "week": 25,
+      "week_start": "2026-06-22",
+      "station": "Propulsion Integration",
+      "planned_units": 34,
+      "actual_units": 22,
+      "defects": 3,
+      "downtime_hours": 4.1
+    },
+    {
+      "week": 26,
+      "week_start": "2026-06-29",
+      "station": "Propulsion Integration",
+      "planned_units": 34,
+      "actual_units": 22,
+      "defects": 0,
+      "downtime_hours": 3.0
+    },
+    {
+      "week": 27,
+      "week_start": "2026-07-06",
+      "station": "Propulsion Integration",
+      "planned_units": 34,
+      "actual_units": 25,
+      "defects": 1,
+      "downtime_hours": 2.7
+    },
+    {
+      "week": 28,
+      "week_start": "2026-07-13",
+      "station": "Propulsion Integration",
+      "planned_units": 34,
+      "actual_units": 27,
+      "defects": 2,
+      "downtime_hours": 3.9
+    },
+    {
+      "week": 29,
+      "week_start": "2026-07-20",
+      "station": "Propulsion Integration",
+      "planned_units": 34,
+      "actual_units": 30,
+      "defects": 2,
+      "downtime_hours": 3.4
+    },
+    {
+      "week": 30,
+      "week_start": "2026-07-27",
+      "station": "Propulsion Integration",
+      "planned_units": 34,
+      "actual_units": 30,
+      "defects": 1,
+      "downtime_hours": 4.4
+    },
+    {
+      "week": 31,
+      "week_start": "2026-08-03",
+      "station": "Propulsion Integration",
+      "planned_units": 34,
+      "actual_units": 31,
+      "defects": 3,
+      "downtime_hours": 4.3
+    },
+    {
+      "week": 32,
+      "week_start": "2026-08-10",
+      "station": "Propulsion Integration",
+      "planned_units": 34,
+      "actual_units": 30,
+      "defects": 3,
+      "downtime_hours": 3.5
+    },
+    {
+      "week": 33,
+      "week_start": "2026-08-17",
+      "station": "Propulsion Integration",
+      "planned_units": 34,
+      "actual_units": 29,
+      "defects": 2,
+      "downtime_hours": 2.4
+    },
+    {
+      "week": 34,
+      "week_start": "2026-08-24",
+      "station": "Propulsion Integration",
+      "planned_units": 34,
+      "actual_units": 28,
+      "defects": 1,
+      "downtime_hours": 3.0
+    },
+    {
+      "week": 35,
+      "week_start": "2026-08-31",
+      "station": "Propulsion Integration",
+      "planned_units": 34,
+      "actual_units": 29,
+      "defects": 1,
+      "downtime_hours": 4.0
+    },
+    {
+      "week": 36,
+      "week_start": "2026-09-07",
+      "station": "Propulsion Integration",
+      "planned_units": 34,
+      "actual_units": 30,
+      "defects": 0,
+      "downtime_hours": 4.7
+    },
+    {
+      "week": 37,
+      "week_start": "2026-09-14",
+      "station": "Propulsion Integration",
+      "planned_units": 34,
+      "actual_units": 31,
+      "defects": 0,
+      "downtime_hours": 2.8
+    },
+    {
+      "week": 38,
+      "week_start": "2026-09-21",
+      "station": "Propulsion Integration",
+      "planned_units": 34,
+      "actual_units": 31,
+      "defects": 1,
+      "downtime_hours": 1.9
+    },
+    {
+      "week": 39,
+      "week_start": "2026-09-28",
+      "station": "Propulsion Integration",
+      "planned_units": 34,
+      "actual_units": 30,
+      "defects": 1,
+      "downtime_hours": 2.5
+    },
+    {
+      "week": 40,
+      "week_start": "2026-10-05",
+      "station": "Propulsion Integration",
+      "planned_units": 34,
+      "actual_units": 30,
+      "defects": 4,
+      "downtime_hours": 5.2
+    },
+    {
+      "week": 41,
+      "week_start": "2026-10-12",
+      "station": "Propulsion Integration",
+      "planned_units": 34,
+      "actual_units": 32,
+      "defects": 2,
+      "downtime_hours": 4.0
+    },
+    {
+      "week": 42,
+      "week_start": "2026-10-19",
+      "station": "Propulsion Integration",
+      "planned_units": 34,
+      "actual_units": 26,
+      "defects": 4,
+      "downtime_hours": 3.2
+    },
+    {
+      "week": 43,
+      "week_start": "2026-10-26",
+      "station": "Propulsion Integration",
+      "planned_units": 34,
+      "actual_units": 28,
+      "defects": 0,
+      "downtime_hours": 6.0
+    },
+    {
+      "week": 44,
+      "week_start": "2026-11-02",
+      "station": "Propulsion Integration",
+      "planned_units": 34,
+      "actual_units": 28,
+      "defects": 1,
+      "downtime_hours": 3.9
+    },
+    {
+      "week": 45,
+      "week_start": "2026-11-09",
+      "station": "Propulsion Integration",
+      "planned_units": 34,
+      "actual_units": 32,
+      "defects": 5,
+      "downtime_hours": 3.9
+    },
+    {
+      "week": 46,
+      "week_start": "2026-11-16",
+      "station": "Propulsion Integration",
+      "planned_units": 34,
+      "actual_units": 33,
+      "defects": 2,
+      "downtime_hours": 3.1
+    },
+    {
+      "week": 47,
+      "week_start": "2026-11-23",
+      "station": "Propulsion Integration",
+      "planned_units": 34,
+      "actual_units": 27,
+      "defects": 0,
+      "downtime_hours": 3.1
+    },
+    {
+      "week": 48,
+      "week_start": "2026-11-30",
+      "station": "Propulsion Integration",
+      "planned_units": 34,
+      "actual_units": 29,
+      "defects": 4,
+      "downtime_hours": 3.9
+    },
+    {
+      "week": 49,
+      "week_start": "2026-12-07",
+      "station": "Propulsion Integration",
+      "planned_units": 34,
+      "actual_units": 27,
+      "defects": 1,
+      "downtime_hours": 2.9
+    },
+    {
+      "week": 50,
+      "week_start": "2026-12-14",
+      "station": "Propulsion Integration",
+      "planned_units": 34,
+      "actual_units": 32,
+      "defects": 2,
+      "downtime_hours": 2.8
+    },
+    {
+      "week": 51,
+      "week_start": "2026-12-21",
+      "station": "Propulsion Integration",
+      "planned_units": 34,
+      "actual_units": 31,
+      "defects": 3,
+      "downtime_hours": 4.1
+    },
+    {
+      "week": 52,
+      "week_start": "2026-12-28",
+      "station": "Propulsion Integration",
+      "planned_units": 34,
+      "actual_units": 27,
+      "defects": 0,
+      "downtime_hours": 2.4
+    },
+    {
+      "week": 1,
+      "week_start": "2026-01-05",
+      "station": "Guidance Integration",
+      "planned_units": 24,
+      "actual_units": 22,
+      "defects": 1,
+      "downtime_hours": 3.8
+    },
+    {
+      "week": 2,
+      "week_start": "2026-01-12",
+      "station": "Guidance Integration",
+      "planned_units": 25,
+      "actual_units": 21,
+      "defects": 1,
+      "downtime_hours": 4.2
+    },
+    {
+      "week": 3,
+      "week_start": "2026-01-19",
+      "station": "Guidance Integration",
+      "planned_units": 26,
+      "actual_units": 23,
+      "defects": 0,
+      "downtime_hours": 5.0
+    },
+    {
+      "week": 4,
+      "week_start": "2026-01-26",
+      "station": "Guidance Integration",
+      "planned_units": 26,
+      "actual_units": 23,
+      "defects": 0,
+      "downtime_hours": 3.6
+    },
+    {
+      "week": 5,
+      "week_start": "2026-02-02",
+      "station": "Guidance Integration",
+      "planned_units": 27,
+      "actual_units": 23,
+      "defects": 0,
+      "downtime_hours": 2.7
+    },
+    {
+      "week": 6,
+      "week_start": "2026-02-09",
+      "station": "Guidance Integration",
+      "planned_units": 28,
+      "actual_units": 24,
+      "defects": 1,
+      "downtime_hours": 2.1
+    },
+    {
+      "week": 7,
+      "week_start": "2026-02-16",
+      "station": "Guidance Integration",
+      "planned_units": 29,
+      "actual_units": 23,
+      "defects": 1,
+      "downtime_hours": 6.4
+    },
+    {
+      "week": 8,
+      "week_start": "2026-02-23",
+      "station": "Guidance Integration",
+      "planned_units": 30,
+      "actual_units": 26,
+      "defects": 1,
+      "downtime_hours": 2.9
+    },
+    {
+      "week": 9,
+      "week_start": "2026-03-02",
+      "station": "Guidance Integration",
+      "planned_units": 31,
+      "actual_units": 27,
+      "defects": 3,
+      "downtime_hours": 2.0
+    },
+    {
+      "week": 10,
+      "week_start": "2026-03-09",
+      "station": "Guidance Integration",
+      "planned_units": 31,
+      "actual_units": 28,
+      "defects": 1,
+      "downtime_hours": 1.5
+    },
+    {
+      "week": 11,
+      "week_start": "2026-03-16",
+      "station": "Guidance Integration",
+      "planned_units": 32,
+      "actual_units": 29,
+      "defects": 6,
+      "downtime_hours": 3.5
+    },
+    {
+      "week": 12,
+      "week_start": "2026-03-23",
+      "station": "Guidance Integration",
+      "planned_units": 33,
+      "actual_units": 29,
+      "defects": 0,
+      "downtime_hours": 4.0
+    },
+    {
+      "week": 13,
+      "week_start": "2026-03-30",
+      "station": "Guidance Integration",
+      "planned_units": 34,
+      "actual_units": 28,
+      "defects": 1,
+      "downtime_hours": 2.8
+    },
+    {
+      "week": 14,
+      "week_start": "2026-04-06",
+      "station": "Guidance Integration",
+      "planned_units": 34,
+      "actual_units": 33,
+      "defects": 0,
+      "downtime_hours": 5.3
+    },
+    {
+      "week": 15,
+      "week_start": "2026-04-13",
+      "station": "Guidance Integration",
+      "planned_units": 34,
+      "actual_units": 29,
+      "defects": 0,
+      "downtime_hours": 3.7
+    },
+    {
+      "week": 16,
+      "week_start": "2026-04-20",
+      "station": "Guidance Integration",
+      "planned_units": 34,
+      "actual_units": 29,
+      "defects": 2,
+      "downtime_hours": 4.8
+    },
+    {
+      "week": 17,
+      "week_start": "2026-04-27",
+      "station": "Guidance Integration",
+      "planned_units": 34,
+      "actual_units": 30,
+      "defects": 4,
+      "downtime_hours": 3.3
+    },
+    {
+      "week": 18,
+      "week_start": "2026-05-04",
+      "station": "Guidance Integration",
+      "planned_units": 34,
+      "actual_units": 29,
+      "defects": 1,
+      "downtime_hours": 3.2
+    },
+    {
+      "week": 19,
+      "week_start": "2026-05-11",
+      "station": "Guidance Integration",
+      "planned_units": 34,
+      "actual_units": 28,
+      "defects": 1,
+      "downtime_hours": 3.9
+    },
+    {
+      "week": 20,
+      "week_start": "2026-05-18",
+      "station": "Guidance Integration",
+      "planned_units": 34,
+      "actual_units": 29,
+      "defects": 2,
+      "downtime_hours": 4.2
+    },
+    {
+      "week": 21,
+      "week_start": "2026-05-25",
+      "station": "Guidance Integration",
+      "planned_units": 34,
+      "actual_units": 31,
+      "defects": 1,
+      "downtime_hours": 1.7
+    },
+    {
+      "week": 22,
+      "week_start": "2026-06-01",
+      "station": "Guidance Integration",
+      "planned_units": 34,
+      "actual_units": 32,
+      "defects": 0,
+      "downtime_hours": 6.2
+    },
+    {
+      "week": 23,
+      "week_start": "2026-06-08",
+      "station": "Guidance Integration",
+      "planned_units": 34,
+      "actual_units": 31,
+      "defects": 2,
+      "downtime_hours": 3.1
+    },
+    {
+      "week": 24,
+      "week_start": "2026-06-15",
+      "station": "Guidance Integration",
+      "planned_units": 34,
+      "actual_units": 31,
+      "defects": 1,
+      "downtime_hours": 4.8
+    },
+    {
+      "week": 25,
+      "week_start": "2026-06-22",
+      "station": "Guidance Integration",
+      "planned_units": 34,
+      "actual_units": 29,
+      "defects": 2,
+      "downtime_hours": 2.7
+    },
+    {
+      "week": 26,
+      "week_start": "2026-06-29",
+      "station": "Guidance Integration",
+      "planned_units": 34,
+      "actual_units": 30,
+      "defects": 0,
+      "downtime_hours": 4.2
+    },
+    {
+      "week": 27,
+      "week_start": "2026-07-06",
+      "station": "Guidance Integration",
+      "planned_units": 34,
+      "actual_units": 33,
+      "defects": 2,
+      "downtime_hours": 2.8
+    },
+    {
+      "week": 28,
+      "week_start": "2026-07-13",
+      "station": "Guidance Integration",
+      "planned_units": 34,
+      "actual_units": 31,
+      "defects": 1,
+      "downtime_hours": 4.4
+    },
+    {
+      "week": 29,
+      "week_start": "2026-07-20",
+      "station": "Guidance Integration",
+      "planned_units": 34,
+      "actual_units": 27,
+      "defects": 0,
+      "downtime_hours": 2.4
+    },
+    {
+      "week": 30,
+      "week_start": "2026-07-27",
+      "station": "Guidance Integration",
+      "planned_units": 34,
+      "actual_units": 27,
+      "defects": 0,
+      "downtime_hours": 2.2
+    },
+    {
+      "week": 31,
+      "week_start": "2026-08-03",
+      "station": "Guidance Integration",
+      "planned_units": 34,
+      "actual_units": 30,
+      "defects": 1,
+      "downtime_hours": 3.0
+    },
+    {
+      "week": 32,
+      "week_start": "2026-08-10",
+      "station": "Guidance Integration",
+      "planned_units": 34,
+      "actual_units": 29,
+      "defects": 1,
+      "downtime_hours": 4.6
+    },
+    {
+      "week": 33,
+      "week_start": "2026-08-17",
+      "station": "Guidance Integration",
+      "planned_units": 34,
+      "actual_units": 29,
+      "defects": 0,
+      "downtime_hours": 4.0
+    },
+    {
+      "week": 34,
+      "week_start": "2026-08-24",
+      "station": "Guidance Integration",
+      "planned_units": 34,
+      "actual_units": 30,
+      "defects": 1,
+      "downtime_hours": 3.3
+    },
+    {
+      "week": 35,
+      "week_start": "2026-08-31",
+      "station": "Guidance Integration",
+      "planned_units": 34,
+      "actual_units": 31,
+      "defects": 3,
+      "downtime_hours": 3.3
+    },
+    {
+      "week": 36,
+      "week_start": "2026-09-07",
+      "station": "Guidance Integration",
+      "planned_units": 34,
+      "actual_units": 30,
+      "defects": 1,
+      "downtime_hours": 1.4
+    },
+    {
+      "week": 37,
+      "week_start": "2026-09-14",
+      "station": "Guidance Integration",
+      "planned_units": 34,
+      "actual_units": 31,
+      "defects": 5,
+      "downtime_hours": 2.1
+    },
+    {
+      "week": 38,
+      "week_start": "2026-09-21",
+      "station": "Guidance Integration",
+      "planned_units": 34,
+      "actual_units": 30,
+      "defects": 2,
+      "downtime_hours": 0.6
+    },
+    {
+      "week": 39,
+      "week_start": "2026-09-28",
+      "station": "Guidance Integration",
+      "planned_units": 34,
+      "actual_units": 28,
+      "defects": 4,
+      "downtime_hours": 5.1
+    },
+    {
+      "week": 40,
+      "week_start": "2026-10-05",
+      "station": "Guidance Integration",
+      "planned_units": 34,
+      "actual_units": 31,
+      "defects": 6,
+      "downtime_hours": 1.9
+    },
+    {
+      "week": 41,
+      "week_start": "2026-10-12",
+      "station": "Guidance Integration",
+      "planned_units": 34,
+      "actual_units": 29,
+      "defects": 2,
+      "downtime_hours": 3.4
+    },
+    {
+      "week": 42,
+      "week_start": "2026-10-19",
+      "station": "Guidance Integration",
+      "planned_units": 34,
+      "actual_units": 31,
+      "defects": 0,
+      "downtime_hours": 3.6
+    },
+    {
+      "week": 43,
+      "week_start": "2026-10-26",
+      "station": "Guidance Integration",
+      "planned_units": 34,
+      "actual_units": 30,
+      "defects": 0,
+      "downtime_hours": 4.3
+    },
+    {
+      "week": 44,
+      "week_start": "2026-11-02",
+      "station": "Guidance Integration",
+      "planned_units": 34,
+      "actual_units": 28,
+      "defects": 1,
+      "downtime_hours": 4.5
+    },
+    {
+      "week": 45,
+      "week_start": "2026-11-09",
+      "station": "Guidance Integration",
+      "planned_units": 34,
+      "actual_units": 32,
+      "defects": 2,
+      "downtime_hours": 1.1
+    },
+    {
+      "week": 46,
+      "week_start": "2026-11-16",
+      "station": "Guidance Integration",
+      "planned_units": 34,
+      "actual_units": 30,
+      "defects": 3,
+      "downtime_hours": 5.5
+    },
+    {
+      "week": 47,
+      "week_start": "2026-11-23",
+      "station": "Guidance Integration",
+      "planned_units": 34,
+      "actual_units": 31,
+      "defects": 2,
+      "downtime_hours": 2.2
+    },
+    {
+      "week": 48,
+      "week_start": "2026-11-30",
+      "station": "Guidance Integration",
+      "planned_units": 34,
+      "actual_units": 30,
+      "defects": 3,
+      "downtime_hours": 2.1
+    },
+    {
+      "week": 49,
+      "week_start": "2026-12-07",
+      "station": "Guidance Integration",
+      "planned_units": 34,
+      "actual_units": 33,
+      "defects": 4,
+      "downtime_hours": 4.7
+    },
+    {
+      "week": 50,
+      "week_start": "2026-12-14",
+      "station": "Guidance Integration",
+      "planned_units": 34,
+      "actual_units": 29,
+      "defects": 1,
+      "downtime_hours": 4.1
+    },
+    {
+      "week": 51,
+      "week_start": "2026-12-21",
+      "station": "Guidance Integration",
+      "planned_units": 34,
+      "actual_units": 31,
+      "defects": 0,
+      "downtime_hours": 4.1
+    },
+    {
+      "week": 52,
+      "week_start": "2026-12-28",
+      "station": "Guidance Integration",
+      "planned_units": 34,
+      "actual_units": 31,
+      "defects": 0,
+      "downtime_hours": 3.7
+    },
+    {
+      "week": 1,
+      "week_start": "2026-01-05",
+      "station": "Final Assembly",
+      "planned_units": 22,
+      "actual_units": 18,
+      "defects": 0,
+      "downtime_hours": 2.0
+    },
+    {
+      "week": 2,
+      "week_start": "2026-01-12",
+      "station": "Final Assembly",
+      "planned_units": 23,
+      "actual_units": 20,
+      "defects": 1,
+      "downtime_hours": 4.8
+    },
+    {
+      "week": 3,
+      "week_start": "2026-01-19",
+      "station": "Final Assembly",
+      "planned_units": 24,
+      "actual_units": 23,
+      "defects": 2,
+      "downtime_hours": 4.3
+    },
+    {
+      "week": 4,
+      "week_start": "2026-01-26",
+      "station": "Final Assembly",
+      "planned_units": 25,
+      "actual_units": 23,
+      "defects": 0,
+      "downtime_hours": 1.4
+    },
+    {
+      "week": 5,
+      "week_start": "2026-02-02",
+      "station": "Final Assembly",
+      "planned_units": 26,
+      "actual_units": 24,
+      "defects": 1,
+      "downtime_hours": 1.1
+    },
+    {
+      "week": 6,
+      "week_start": "2026-02-09",
+      "station": "Final Assembly",
+      "planned_units": 26,
+      "actual_units": 24,
+      "defects": 0,
+      "downtime_hours": 4.9
+    },
+    {
+      "week": 7,
+      "week_start": "2026-02-16",
+      "station": "Final Assembly",
+      "planned_units": 27,
+      "actual_units": 26,
+      "defects": 0,
+      "downtime_hours": 3.0
+    },
+    {
+      "week": 8,
+      "week_start": "2026-02-23",
+      "station": "Final Assembly",
+      "planned_units": 28,
+      "actual_units": 26,
+      "defects": 1,
+      "downtime_hours": 1.4
+    },
+    {
+      "week": 9,
+      "week_start": "2026-03-02",
+      "station": "Final Assembly",
+      "planned_units": 29,
+      "actual_units": 26,
+      "defects": 0,
+      "downtime_hours": 1.2
+    },
+    {
+      "week": 10,
+      "week_start": "2026-03-09",
+      "station": "Final Assembly",
+      "planned_units": 30,
+      "actual_units": 28,
+      "defects": 1,
+      "downtime_hours": 0.6
+    },
+    {
+      "week": 11,
+      "week_start": "2026-03-16",
+      "station": "Final Assembly",
+      "planned_units": 30,
+      "actual_units": 27,
+      "defects": 1,
+      "downtime_hours": 4.0
+    },
+    {
+      "week": 12,
+      "week_start": "2026-03-23",
+      "station": "Final Assembly",
+      "planned_units": 31,
+      "actual_units": 30,
+      "defects": 0,
+      "downtime_hours": 1.7
+    },
+    {
+      "week": 13,
+      "week_start": "2026-03-30",
+      "station": "Final Assembly",
+      "planned_units": 32,
+      "actual_units": 28,
+      "defects": 1,
+      "downtime_hours": 3.2
+    },
+    {
+      "week": 14,
+      "week_start": "2026-04-06",
+      "station": "Final Assembly",
+      "planned_units": 32,
+      "actual_units": 31,
+      "defects": 1,
+      "downtime_hours": 2.5
+    },
+    {
+      "week": 15,
+      "week_start": "2026-04-13",
+      "station": "Final Assembly",
+      "planned_units": 32,
+      "actual_units": 27,
+      "defects": 1,
+      "downtime_hours": 3.0
+    },
+    {
+      "week": 16,
+      "week_start": "2026-04-20",
+      "station": "Final Assembly",
+      "planned_units": 32,
+      "actual_units": 29,
+      "defects": 2,
+      "downtime_hours": 3.0
+    },
+    {
+      "week": 17,
+      "week_start": "2026-04-27",
+      "station": "Final Assembly",
+      "planned_units": 32,
+      "actual_units": 28,
+      "defects": 0,
+      "downtime_hours": 3.1
+    },
+    {
+      "week": 18,
+      "week_start": "2026-05-04",
+      "station": "Final Assembly",
+      "planned_units": 32,
+      "actual_units": 29,
+      "defects": 1,
+      "downtime_hours": 3.0
+    },
+    {
+      "week": 19,
+      "week_start": "2026-05-11",
+      "station": "Final Assembly",
+      "planned_units": 32,
+      "actual_units": 27,
+      "defects": 0,
+      "downtime_hours": 4.4
+    },
+    {
+      "week": 20,
+      "week_start": "2026-05-18",
+      "station": "Final Assembly",
+      "planned_units": 32,
+      "actual_units": 27,
+      "defects": 1,
+      "downtime_hours": 0.5
+    },
+    {
+      "week": 21,
+      "week_start": "2026-05-25",
+      "station": "Final Assembly",
+      "planned_units": 32,
+      "actual_units": 29,
+      "defects": 1,
+      "downtime_hours": 2.6
+    },
+    {
+      "week": 22,
+      "week_start": "2026-06-01",
+      "station": "Final Assembly",
+      "planned_units": 32,
+      "actual_units": 31,
+      "defects": 2,
+      "downtime_hours": 3.2
+    },
+    {
+      "week": 23,
+      "week_start": "2026-06-08",
+      "station": "Final Assembly",
+      "planned_units": 32,
+      "actual_units": 31,
+      "defects": 0,
+      "downtime_hours": 2.2
+    },
+    {
+      "week": 24,
+      "week_start": "2026-06-15",
+      "station": "Final Assembly",
+      "planned_units": 32,
+      "actual_units": 28,
+      "defects": 2,
+      "downtime_hours": 2.3
+    },
+    {
+      "week": 25,
+      "week_start": "2026-06-22",
+      "station": "Final Assembly",
+      "planned_units": 32,
+      "actual_units": 31,
+      "defects": 2,
+      "downtime_hours": 2.3
+    },
+    {
+      "week": 26,
+      "week_start": "2026-06-29",
+      "station": "Final Assembly",
+      "planned_units": 32,
+      "actual_units": 32,
+      "defects": 1,
+      "downtime_hours": 4.8
+    },
+    {
+      "week": 27,
+      "week_start": "2026-07-06",
+      "station": "Final Assembly",
+      "planned_units": 32,
+      "actual_units": 29,
+      "defects": 1,
+      "downtime_hours": 3.1
+    },
+    {
+      "week": 28,
+      "week_start": "2026-07-13",
+      "station": "Final Assembly",
+      "planned_units": 32,
+      "actual_units": 34,
+      "defects": 1,
+      "downtime_hours": 1.9
+    },
+    {
+      "week": 29,
+      "week_start": "2026-07-20",
+      "station": "Final Assembly",
+      "planned_units": 32,
+      "actual_units": 31,
+      "defects": 3,
+      "downtime_hours": 2.1
+    },
+    {
+      "week": 30,
+      "week_start": "2026-07-27",
+      "station": "Final Assembly",
+      "planned_units": 32,
+      "actual_units": 30,
+      "defects": 1,
+      "downtime_hours": 3.0
+    },
+    {
+      "week": 31,
+      "week_start": "2026-08-03",
+      "station": "Final Assembly",
+      "planned_units": 32,
+      "actual_units": 29,
+      "defects": 0,
+      "downtime_hours": 3.2
+    },
+    {
+      "week": 32,
+      "week_start": "2026-08-10",
+      "station": "Final Assembly",
+      "planned_units": 32,
+      "actual_units": 26,
+      "defects": 3,
+      "downtime_hours": 1.5
+    },
+    {
+      "week": 33,
+      "week_start": "2026-08-17",
+      "station": "Final Assembly",
+      "planned_units": 32,
+      "actual_units": 27,
+      "defects": 1,
+      "downtime_hours": 2.8
+    },
+    {
+      "week": 34,
+      "week_start": "2026-08-24",
+      "station": "Final Assembly",
+      "planned_units": 32,
+      "actual_units": 28,
+      "defects": 0,
+      "downtime_hours": 1.1
+    },
+    {
+      "week": 35,
+      "week_start": "2026-08-31",
+      "station": "Final Assembly",
+      "planned_units": 32,
+      "actual_units": 29,
+      "defects": 1,
+      "downtime_hours": 2.6
+    },
+    {
+      "week": 36,
+      "week_start": "2026-09-07",
+      "station": "Final Assembly",
+      "planned_units": 32,
+      "actual_units": 30,
+      "defects": 1,
+      "downtime_hours": 3.6
+    },
+    {
+      "week": 37,
+      "week_start": "2026-09-14",
+      "station": "Final Assembly",
+      "planned_units": 32,
+      "actual_units": 29,
+      "defects": 1,
+      "downtime_hours": 0.3
+    },
+    {
+      "week": 38,
+      "week_start": "2026-09-21",
+      "station": "Final Assembly",
+      "planned_units": 32,
+      "actual_units": 29,
+      "defects": 0,
+      "downtime_hours": 2.6
+    },
+    {
+      "week": 39,
+      "week_start": "2026-09-28",
+      "station": "Final Assembly",
+      "planned_units": 32,
+      "actual_units": 29,
+      "defects": 2,
+      "downtime_hours": 3.8
+    },
+    {
+      "week": 40,
+      "week_start": "2026-10-05",
+      "station": "Final Assembly",
+      "planned_units": 32,
+      "actual_units": 28,
+      "defects": 3,
+      "downtime_hours": 1.4
+    },
+    {
+      "week": 41,
+      "week_start": "2026-10-12",
+      "station": "Final Assembly",
+      "planned_units": 32,
+      "actual_units": 30,
+      "defects": 0,
+      "downtime_hours": 2.2
+    },
+    {
+      "week": 42,
+      "week_start": "2026-10-19",
+      "station": "Final Assembly",
+      "planned_units": 32,
+      "actual_units": 25,
+      "defects": 2,
+      "downtime_hours": 1.7
+    },
+    {
+      "week": 43,
+      "week_start": "2026-10-26",
+      "station": "Final Assembly",
+      "planned_units": 32,
+      "actual_units": 28,
+      "defects": 0,
+      "downtime_hours": 2.7
+    },
+    {
+      "week": 44,
+      "week_start": "2026-11-02",
+      "station": "Final Assembly",
+      "planned_units": 32,
+      "actual_units": 29,
+      "defects": 2,
+      "downtime_hours": 1.9
+    },
+    {
+      "week": 45,
+      "week_start": "2026-11-09",
+      "station": "Final Assembly",
+      "planned_units": 32,
+      "actual_units": 28,
+      "defects": 0,
+      "downtime_hours": 0.9
+    },
+    {
+      "week": 46,
+      "week_start": "2026-11-16",
+      "station": "Final Assembly",
+      "planned_units": 32,
+      "actual_units": 30,
+      "defects": 2,
+      "downtime_hours": 2.5
+    },
+    {
+      "week": 47,
+      "week_start": "2026-11-23",
+      "station": "Final Assembly",
+      "planned_units": 32,
+      "actual_units": 31,
+      "defects": 3,
+      "downtime_hours": 5.2
+    },
+    {
+      "week": 48,
+      "week_start": "2026-11-30",
+      "station": "Final Assembly",
+      "planned_units": 32,
+      "actual_units": 29,
+      "defects": 0,
+      "downtime_hours": 2.8
+    },
+    {
+      "week": 49,
+      "week_start": "2026-12-07",
+      "station": "Final Assembly",
+      "planned_units": 32,
+      "actual_units": 28,
+      "defects": 0,
+      "downtime_hours": 3.2
+    },
+    {
+      "week": 50,
+      "week_start": "2026-12-14",
+      "station": "Final Assembly",
+      "planned_units": 32,
+      "actual_units": 30,
+      "defects": 0,
+      "downtime_hours": 3.9
+    },
+    {
+      "week": 51,
+      "week_start": "2026-12-21",
+      "station": "Final Assembly",
+      "planned_units": 32,
+      "actual_units": 31,
+      "defects": 2,
+      "downtime_hours": 1.5
+    },
+    {
+      "week": 52,
+      "week_start": "2026-12-28",
+      "station": "Final Assembly",
+      "planned_units": 32,
+      "actual_units": 30,
+      "defects": 0,
+      "downtime_hours": 0.4
+    },
+    {
+      "week": 1,
+      "week_start": "2026-01-05",
+      "station": "Test & Inspection",
+      "planned_units": 22,
+      "actual_units": 20,
+      "defects": 1,
+      "downtime_hours": 2.2
+    },
+    {
+      "week": 2,
+      "week_start": "2026-01-12",
+      "station": "Test & Inspection",
+      "planned_units": 23,
+      "actual_units": 21,
+      "defects": 0,
+      "downtime_hours": 4.4
+    },
+    {
+      "week": 3,
+      "week_start": "2026-01-19",
+      "station": "Test & Inspection",
+      "planned_units": 24,
+      "actual_units": 22,
+      "defects": 0,
+      "downtime_hours": 1.8
+    },
+    {
+      "week": 4,
+      "week_start": "2026-01-26",
+      "station": "Test & Inspection",
+      "planned_units": 25,
+      "actual_units": 23,
+      "defects": 0,
+      "downtime_hours": 2.6
+    },
+    {
+      "week": 5,
+      "week_start": "2026-02-02",
+      "station": "Test & Inspection",
+      "planned_units": 26,
+      "actual_units": 26,
+      "defects": 2,
+      "downtime_hours": 2.5
+    },
+    {
+      "week": 6,
+      "week_start": "2026-02-09",
+      "station": "Test & Inspection",
+      "planned_units": 26,
+      "actual_units": 25,
+      "defects": 0,
+      "downtime_hours": 2.0
+    },
+    {
+      "week": 7,
+      "week_start": "2026-02-16",
+      "station": "Test & Inspection",
+      "planned_units": 27,
+      "actual_units": 26,
+      "defects": 0,
+      "downtime_hours": 2.4
+    },
+    {
+      "week": 8,
+      "week_start": "2026-02-23",
+      "station": "Test & Inspection",
+      "planned_units": 28,
+      "actual_units": 27,
+      "defects": 1,
+      "downtime_hours": 3.5
+    },
+    {
+      "week": 9,
+      "week_start": "2026-03-02",
+      "station": "Test & Inspection",
+      "planned_units": 29,
+      "actual_units": 27,
+      "defects": 0,
+      "downtime_hours": 2.5
+    },
+    {
+      "week": 10,
+      "week_start": "2026-03-09",
+      "station": "Test & Inspection",
+      "planned_units": 30,
+      "actual_units": 24,
+      "defects": 1,
+      "downtime_hours": 0.0
+    },
+    {
+      "week": 11,
+      "week_start": "2026-03-16",
+      "station": "Test & Inspection",
+      "planned_units": 30,
+      "actual_units": 25,
+      "defects": 0,
+      "downtime_hours": 2.7
+    },
+    {
+      "week": 12,
+      "week_start": "2026-03-23",
+      "station": "Test & Inspection",
+      "planned_units": 31,
+      "actual_units": 27,
+      "defects": 0,
+      "downtime_hours": 3.7
+    },
+    {
+      "week": 13,
+      "week_start": "2026-03-30",
+      "station": "Test & Inspection",
+      "planned_units": 32,
+      "actual_units": 29,
+      "defects": 1,
+      "downtime_hours": 2.1
+    },
+    {
+      "week": 14,
+      "week_start": "2026-04-06",
+      "station": "Test & Inspection",
+      "planned_units": 32,
+      "actual_units": 30,
+      "defects": 0,
+      "downtime_hours": 2.3
+    },
+    {
+      "week": 15,
+      "week_start": "2026-04-13",
+      "station": "Test & Inspection",
+      "planned_units": 32,
+      "actual_units": 28,
+      "defects": 1,
+      "downtime_hours": 2.1
+    },
+    {
+      "week": 16,
+      "week_start": "2026-04-20",
+      "station": "Test & Inspection",
+      "planned_units": 32,
+      "actual_units": 28,
+      "defects": 0,
+      "downtime_hours": 1.2
+    },
+    {
+      "week": 17,
+      "week_start": "2026-04-27",
+      "station": "Test & Inspection",
+      "planned_units": 32,
+      "actual_units": 31,
+      "defects": 0,
+      "downtime_hours": 1.8
+    },
+    {
+      "week": 18,
+      "week_start": "2026-05-04",
+      "station": "Test & Inspection",
+      "planned_units": 32,
+      "actual_units": 30,
+      "defects": 0,
+      "downtime_hours": 2.8
+    },
+    {
+      "week": 19,
+      "week_start": "2026-05-11",
+      "station": "Test & Inspection",
+      "planned_units": 32,
+      "actual_units": 28,
+      "defects": 1,
+      "downtime_hours": 3.4
+    },
+    {
+      "week": 20,
+      "week_start": "2026-05-18",
+      "station": "Test & Inspection",
+      "planned_units": 32,
+      "actual_units": 29,
+      "defects": 1,
+      "downtime_hours": 2.6
+    },
+    {
+      "week": 21,
+      "week_start": "2026-05-25",
+      "station": "Test & Inspection",
+      "planned_units": 32,
+      "actual_units": 30,
+      "defects": 0,
+      "downtime_hours": 2.4
+    },
+    {
+      "week": 22,
+      "week_start": "2026-06-01",
+      "station": "Test & Inspection",
+      "planned_units": 32,
+      "actual_units": 31,
+      "defects": 1,
+      "downtime_hours": 2.9
+    },
+    {
+      "week": 23,
+      "week_start": "2026-06-08",
+      "station": "Test & Inspection",
+      "planned_units": 32,
+      "actual_units": 28,
+      "defects": 1,
+      "downtime_hours": 1.7
+    },
+    {
+      "week": 24,
+      "week_start": "2026-06-15",
+      "station": "Test & Inspection",
+      "planned_units": 32,
+      "actual_units": 29,
+      "defects": 0,
+      "downtime_hours": 3.9
+    },
+    {
+      "week": 25,
+      "week_start": "2026-06-22",
+      "station": "Test & Inspection",
+      "planned_units": 32,
+      "actual_units": 32,
+      "defects": 1,
+      "downtime_hours": 2.0
+    },
+    {
+      "week": 26,
+      "week_start": "2026-06-29",
+      "station": "Test & Inspection",
+      "planned_units": 32,
+      "actual_units": 30,
+      "defects": 1,
+      "downtime_hours": 2.2
+    },
+    {
+      "week": 27,
+      "week_start": "2026-07-06",
+      "station": "Test & Inspection",
+      "planned_units": 32,
+      "actual_units": 30,
+      "defects": 0,
+      "downtime_hours": 2.0
+    },
+    {
+      "week": 28,
+      "week_start": "2026-07-13",
+      "station": "Test & Inspection",
+      "planned_units": 32,
+      "actual_units": 29,
+      "defects": 0,
+      "downtime_hours": 2.9
+    },
+    {
+      "week": 29,
+      "week_start": "2026-07-20",
+      "station": "Test & Inspection",
+      "planned_units": 32,
+      "actual_units": 30,
+      "defects": 0,
+      "downtime_hours": 2.9
+    },
+    {
+      "week": 30,
+      "week_start": "2026-07-27",
+      "station": "Test & Inspection",
+      "planned_units": 32,
+      "actual_units": 29,
+      "defects": 1,
+      "downtime_hours": 2.6
+    },
+    {
+      "week": 31,
+      "week_start": "2026-08-03",
+      "station": "Test & Inspection",
+      "planned_units": 32,
+      "actual_units": 28,
+      "defects": 0,
+      "downtime_hours": 1.5
+    },
+    {
+      "week": 32,
+      "week_start": "2026-08-10",
+      "station": "Test & Inspection",
+      "planned_units": 32,
+      "actual_units": 27,
+      "defects": 0,
+      "downtime_hours": 0.9
+    },
+    {
+      "week": 33,
+      "week_start": "2026-08-17",
+      "station": "Test & Inspection",
+      "planned_units": 32,
+      "actual_units": 30,
+      "defects": 0,
+      "downtime_hours": 1.7
+    },
+    {
+      "week": 34,
+      "week_start": "2026-08-24",
+      "station": "Test & Inspection",
+      "planned_units": 32,
+      "actual_units": 31,
+      "defects": 1,
+      "downtime_hours": 2.5
+    },
+    {
+      "week": 35,
+      "week_start": "2026-08-31",
+      "station": "Test & Inspection",
+      "planned_units": 32,
+      "actual_units": 30,
+      "defects": 0,
+      "downtime_hours": 0.0
+    },
+    {
+      "week": 36,
+      "week_start": "2026-09-07",
+      "station": "Test & Inspection",
+      "planned_units": 32,
+      "actual_units": 29,
+      "defects": 1,
+      "downtime_hours": 2.1
+    },
+    {
+      "week": 37,
+      "week_start": "2026-09-14",
+      "station": "Test & Inspection",
+      "planned_units": 32,
+      "actual_units": 30,
+      "defects": 0,
+      "downtime_hours": 3.5
+    },
+    {
+      "week": 38,
+      "week_start": "2026-09-21",
+      "station": "Test & Inspection",
+      "planned_units": 32,
+      "actual_units": 30,
+      "defects": 1,
+      "downtime_hours": 2.7
+    },
+    {
+      "week": 39,
+      "week_start": "2026-09-28",
+      "station": "Test & Inspection",
+      "planned_units": 32,
+      "actual_units": 29,
+      "defects": 1,
+      "downtime_hours": 3.3
+    },
+    {
+      "week": 40,
+      "week_start": "2026-10-05",
+      "station": "Test & Inspection",
+      "planned_units": 32,
+      "actual_units": 29,
+      "defects": 2,
+      "downtime_hours": 2.9
+    },
+    {
+      "week": 41,
+      "week_start": "2026-10-12",
+      "station": "Test & Inspection",
+      "planned_units": 32,
+      "actual_units": 28,
+      "defects": 0,
+      "downtime_hours": 2.9
+    },
+    {
+      "week": 42,
+      "week_start": "2026-10-19",
+      "station": "Test & Inspection",
+      "planned_units": 32,
+      "actual_units": 30,
+      "defects": 0,
+      "downtime_hours": 1.1
+    },
+    {
+      "week": 43,
+      "week_start": "2026-10-26",
+      "station": "Test & Inspection",
+      "planned_units": 32,
+      "actual_units": 29,
+      "defects": 2,
+      "downtime_hours": 1.0
+    },
+    {
+      "week": 44,
+      "week_start": "2026-11-02",
+      "station": "Test & Inspection",
+      "planned_units": 32,
+      "actual_units": 30,
+      "defects": 1,
+      "downtime_hours": 1.9
+    },
+    {
+      "week": 45,
+      "week_start": "2026-11-09",
+      "station": "Test & Inspection",
+      "planned_units": 32,
+      "actual_units": 30,
+      "defects": 0,
+      "downtime_hours": 0.4
+    },
+    {
+      "week": 46,
+      "week_start": "2026-11-16",
+      "station": "Test & Inspection",
+      "planned_units": 32,
+      "actual_units": 32,
+      "defects": 1,
+      "downtime_hours": 2.6
+    },
+    {
+      "week": 47,
+      "week_start": "2026-11-23",
+      "station": "Test & Inspection",
+      "planned_units": 32,
+      "actual_units": 30,
+      "defects": 1,
+      "downtime_hours": 1.9
+    },
+    {
+      "week": 48,
+      "week_start": "2026-11-30",
+      "station": "Test & Inspection",
+      "planned_units": 32,
+      "actual_units": 32,
+      "defects": 1,
+      "downtime_hours": 3.5
+    },
+    {
+      "week": 49,
+      "week_start": "2026-12-07",
+      "station": "Test & Inspection",
+      "planned_units": 32,
+      "actual_units": 29,
+      "defects": 0,
+      "downtime_hours": 0.8
+    },
+    {
+      "week": 50,
+      "week_start": "2026-12-14",
+      "station": "Test & Inspection",
+      "planned_units": 32,
+      "actual_units": 30,
+      "defects": 1,
+      "downtime_hours": 2.0
+    },
+    {
+      "week": 51,
+      "week_start": "2026-12-21",
+      "station": "Test & Inspection",
+      "planned_units": 32,
+      "actual_units": 29,
+      "defects": 0,
+      "downtime_hours": 1.8
+    },
+    {
+      "week": 52,
+      "week_start": "2026-12-28",
+      "station": "Test & Inspection",
+      "planned_units": 32,
+      "actual_units": 27,
+      "defects": 0,
+      "downtime_hours": 2.4
+    },
+    {
+      "week": 1,
+      "week_start": "2026-01-05",
+      "station": "Packaging",
+      "planned_units": 22,
+      "actual_units": 23,
+      "defects": 0,
+      "downtime_hours": 0.0
+    },
+    {
+      "week": 2,
+      "week_start": "2026-01-12",
+      "station": "Packaging",
+      "planned_units": 23,
+      "actual_units": 24,
+      "defects": 0,
+      "downtime_hours": 0.4
+    },
+    {
+      "week": 3,
+      "week_start": "2026-01-19",
+      "station": "Packaging",
+      "planned_units": 24,
+      "actual_units": 24,
+      "defects": 0,
+      "downtime_hours": 0.7
+    },
+    {
+      "week": 4,
+      "week_start": "2026-01-26",
+      "station": "Packaging",
+      "planned_units": 25,
+      "actual_units": 24,
+      "defects": 0,
+      "downtime_hours": 0.0
+    },
+    {
+      "week": 5,
+      "week_start": "2026-02-02",
+      "station": "Packaging",
+      "planned_units": 26,
+      "actual_units": 26,
+      "defects": 0,
+      "downtime_hours": 0.0
+    },
+    {
+      "week": 6,
+      "week_start": "2026-02-09",
+      "station": "Packaging",
+      "planned_units": 26,
+      "actual_units": 25,
+      "defects": 0,
+      "downtime_hours": 0.8
+    },
+    {
+      "week": 7,
+      "week_start": "2026-02-16",
+      "station": "Packaging",
+      "planned_units": 27,
+      "actual_units": 26,
+      "defects": 2,
+      "downtime_hours": 0.5
+    },
+    {
+      "week": 8,
+      "week_start": "2026-02-23",
+      "station": "Packaging",
+      "planned_units": 28,
+      "actual_units": 30,
+      "defects": 0,
+      "downtime_hours": 1.8
+    },
+    {
+      "week": 9,
+      "week_start": "2026-03-02",
+      "station": "Packaging",
+      "planned_units": 29,
+      "actual_units": 30,
+      "defects": 0,
+      "downtime_hours": 1.3
+    },
+    {
+      "week": 10,
+      "week_start": "2026-03-09",
+      "station": "Packaging",
+      "planned_units": 30,
+      "actual_units": 30,
+      "defects": 0,
+      "downtime_hours": 0.0
+    },
+    {
+      "week": 11,
+      "week_start": "2026-03-16",
+      "station": "Packaging",
+      "planned_units": 30,
+      "actual_units": 30,
+      "defects": 0,
+      "downtime_hours": 0.0
+    },
+    {
+      "week": 12,
+      "week_start": "2026-03-23",
+      "station": "Packaging",
+      "planned_units": 31,
+      "actual_units": 32,
+      "defects": 0,
+      "downtime_hours": 2.4
+    },
+    {
+      "week": 13,
+      "week_start": "2026-03-30",
+      "station": "Packaging",
+      "planned_units": 32,
+      "actual_units": 31,
+      "defects": 0,
+      "downtime_hours": 0.3
+    },
+    {
+      "week": 14,
+      "week_start": "2026-04-06",
+      "station": "Packaging",
+      "planned_units": 32,
+      "actual_units": 32,
+      "defects": 1,
+      "downtime_hours": 2.0
+    },
+    {
+      "week": 15,
+      "week_start": "2026-04-13",
+      "station": "Packaging",
+      "planned_units": 32,
+      "actual_units": 31,
+      "defects": 0,
+      "downtime_hours": 0.0
+    },
+    {
+      "week": 16,
+      "week_start": "2026-04-20",
+      "station": "Packaging",
+      "planned_units": 32,
+      "actual_units": 32,
+      "defects": 0,
+      "downtime_hours": 0.0
+    },
+    {
+      "week": 17,
+      "week_start": "2026-04-27",
+      "station": "Packaging",
+      "planned_units": 32,
+      "actual_units": 31,
+      "defects": 0,
+      "downtime_hours": 0.3
+    },
+    {
+      "week": 18,
+      "week_start": "2026-05-04",
+      "station": "Packaging",
+      "planned_units": 32,
+      "actual_units": 34,
+      "defects": 0,
+      "downtime_hours": 0.3
+    },
+    {
+      "week": 19,
+      "week_start": "2026-05-11",
+      "station": "Packaging",
+      "planned_units": 32,
+      "actual_units": 28,
+      "defects": 0,
+      "downtime_hours": 0.3
+    },
+    {
+      "week": 20,
+      "week_start": "2026-05-18",
+      "station": "Packaging",
+      "planned_units": 32,
+      "actual_units": 30,
+      "defects": 0,
+      "downtime_hours": 0.4
+    },
+    {
+      "week": 21,
+      "week_start": "2026-05-25",
+      "station": "Packaging",
+      "planned_units": 32,
+      "actual_units": 33,
+      "defects": 0,
+      "downtime_hours": 0.6
+    },
+    {
+      "week": 22,
+      "week_start": "2026-06-01",
+      "station": "Packaging",
+      "planned_units": 32,
+      "actual_units": 31,
+      "defects": 0,
+      "downtime_hours": 2.7
+    },
+    {
+      "week": 23,
+      "week_start": "2026-06-08",
+      "station": "Packaging",
+      "planned_units": 32,
+      "actual_units": 28,
+      "defects": 0,
+      "downtime_hours": 0.0
+    },
+    {
+      "week": 24,
+      "week_start": "2026-06-15",
+      "station": "Packaging",
+      "planned_units": 32,
+      "actual_units": 31,
+      "defects": 0,
+      "downtime_hours": 1.2
+    },
+    {
+      "week": 25,
+      "week_start": "2026-06-22",
+      "station": "Packaging",
+      "planned_units": 32,
+      "actual_units": 31,
+      "defects": 0,
+      "downtime_hours": 1.8
+    },
+    {
+      "week": 26,
+      "week_start": "2026-06-29",
+      "station": "Packaging",
+      "planned_units": 32,
+      "actual_units": 32,
+      "defects": 2,
+      "downtime_hours": 0.9
+    },
+    {
+      "week": 27,
+      "week_start": "2026-07-06",
+      "station": "Packaging",
+      "planned_units": 32,
+      "actual_units": 30,
+      "defects": 0,
+      "downtime_hours": 0.7
+    },
+    {
+      "week": 28,
+      "week_start": "2026-07-13",
+      "station": "Packaging",
+      "planned_units": 32,
+      "actual_units": 31,
+      "defects": 1,
+      "downtime_hours": 0.0
+    },
+    {
+      "week": 29,
+      "week_start": "2026-07-20",
+      "station": "Packaging",
+      "planned_units": 32,
+      "actual_units": 29,
+      "defects": 0,
+      "downtime_hours": 0.2
+    },
+    {
+      "week": 30,
+      "week_start": "2026-07-27",
+      "station": "Packaging",
+      "planned_units": 32,
+      "actual_units": 31,
+      "defects": 0,
+      "downtime_hours": 0.0
+    },
+    {
+      "week": 31,
+      "week_start": "2026-08-03",
+      "station": "Packaging",
+      "planned_units": 32,
+      "actual_units": 30,
+      "defects": 0,
+      "downtime_hours": 2.8
+    },
+    {
+      "week": 32,
+      "week_start": "2026-08-10",
+      "station": "Packaging",
+      "planned_units": 32,
+      "actual_units": 31,
+      "defects": 0,
+      "downtime_hours": 0.0
+    },
+    {
+      "week": 33,
+      "week_start": "2026-08-17",
+      "station": "Packaging",
+      "planned_units": 32,
+      "actual_units": 28,
+      "defects": 0,
+      "downtime_hours": 0.0
+    },
+    {
+      "week": 34,
+      "week_start": "2026-08-24",
+      "station": "Packaging",
+      "planned_units": 32,
+      "actual_units": 31,
+      "defects": 0,
+      "downtime_hours": 0.0
+    },
+    {
+      "week": 35,
+      "week_start": "2026-08-31",
+      "station": "Packaging",
+      "planned_units": 32,
+      "actual_units": 32,
+      "defects": 0,
+      "downtime_hours": 1.1
+    },
+    {
+      "week": 36,
+      "week_start": "2026-09-07",
+      "station": "Packaging",
+      "planned_units": 32,
+      "actual_units": 29,
+      "defects": 0,
+      "downtime_hours": 0.0
+    },
+    {
+      "week": 37,
+      "week_start": "2026-09-14",
+      "station": "Packaging",
+      "planned_units": 32,
+      "actual_units": 32,
+      "defects": 0,
+      "downtime_hours": 0.0
+    },
+    {
+      "week": 38,
+      "week_start": "2026-09-21",
+      "station": "Packaging",
+      "planned_units": 32,
+      "actual_units": 31,
+      "defects": 0,
+      "downtime_hours": 1.3
+    },
+    {
+      "week": 39,
+      "week_start": "2026-09-28",
+      "station": "Packaging",
+      "planned_units": 32,
+      "actual_units": 31,
+      "defects": 0,
+      "downtime_hours": 1.8
+    },
+    {
+      "week": 40,
+      "week_start": "2026-10-05",
+      "station": "Packaging",
+      "planned_units": 32,
+      "actual_units": 31,
+      "defects": 0,
+      "downtime_hours": 2.9
+    },
+    {
+      "week": 41,
+      "week_start": "2026-10-12",
+      "station": "Packaging",
+      "planned_units": 32,
+      "actual_units": 34,
+      "defects": 0,
+      "downtime_hours": 0.0
+    },
+    {
+      "week": 42,
+      "week_start": "2026-10-19",
+      "station": "Packaging",
+      "planned_units": 32,
+      "actual_units": 34,
+      "defects": 0,
+      "downtime_hours": 0.0
+    },
+    {
+      "week": 43,
+      "week_start": "2026-10-26",
+      "station": "Packaging",
+      "planned_units": 32,
+      "actual_units": 31,
+      "defects": 0,
+      "downtime_hours": 0.5
+    },
+    {
+      "week": 44,
+      "week_start": "2026-11-02",
+      "station": "Packaging",
+      "planned_units": 32,
+      "actual_units": 30,
+      "defects": 0,
+      "downtime_hours": 0.0
+    },
+    {
+      "week": 45,
+      "week_start": "2026-11-09",
+      "station": "Packaging",
+      "planned_units": 32,
+      "actual_units": 30,
+      "defects": 0,
+      "downtime_hours": 1.0
+    },
+    {
+      "week": 46,
+      "week_start": "2026-11-16",
+      "station": "Packaging",
+      "planned_units": 32,
+      "actual_units": 33,
+      "defects": 0,
+      "downtime_hours": 0.4
+    },
+    {
+      "week": 47,
+      "week_start": "2026-11-23",
+      "station": "Packaging",
+      "planned_units": 32,
+      "actual_units": 30,
+      "defects": 0,
+      "downtime_hours": 0.0
+    },
+    {
+      "week": 48,
+      "week_start": "2026-11-30",
+      "station": "Packaging",
+      "planned_units": 32,
+      "actual_units": 29,
+      "defects": 0,
+      "downtime_hours": 0.0
+    },
+    {
+      "week": 49,
+      "week_start": "2026-12-07",
+      "station": "Packaging",
+      "planned_units": 32,
+      "actual_units": 33,
+      "defects": 0,
+      "downtime_hours": 2.1
+    },
+    {
+      "week": 50,
+      "week_start": "2026-12-14",
+      "station": "Packaging",
+      "planned_units": 32,
+      "actual_units": 32,
+      "defects": 2,
+      "downtime_hours": 0.0
+    },
+    {
+      "week": 51,
+      "week_start": "2026-12-21",
+      "station": "Packaging",
+      "planned_units": 32,
+      "actual_units": 32,
+      "defects": 0,
+      "downtime_hours": 0.0
+    },
+    {
+      "week": 52,
+      "week_start": "2026-12-28",
+      "station": "Packaging",
+      "planned_units": 32,
+      "actual_units": 32,
+      "defects": 0,
+      "downtime_hours": 0.0
+    }
+  ],
+  "supplier_issues": [
+    {
+      "id": "SI-1000",
+      "supplier": "Dunmore Composites",
+      "severity": "Medium",
+      "opened_week": 42,
+      "status": "Closed",
+      "days_open": 34
+    },
+    {
+      "id": "SI-1001",
+      "supplier": "Everett Propulsion Parts",
+      "severity": "Medium",
+      "opened_week": 51,
+      "status": "Open",
+      "days_open": 1
+    },
+    {
+      "id": "SI-1002",
+      "supplier": "Lumen Power",
+      "severity": "Low",
+      "opened_week": 25,
+      "status": "Closed",
+      "days_open": 7
+    },
+    {
+      "id": "SI-1003",
+      "supplier": "Helix Sensors",
+      "severity": "High",
+      "opened_week": 6,
+      "status": "Closed",
+      "days_open": 3
+    },
+    {
+      "id": "SI-1004",
+      "supplier": "Everett Propulsion Parts",
+      "severity": "Medium",
+      "opened_week": 35,
+      "status": "Closed",
+      "days_open": 16
+    },
+    {
+      "id": "SI-1005",
+      "supplier": "Everett Propulsion Parts",
+      "severity": "Critical",
+      "opened_week": 49,
+      "status": "Open",
+      "days_open": 4
+    },
+    {
+      "id": "SI-1006",
+      "supplier": "Dunmore Composites",
+      "severity": "Medium",
+      "opened_week": 15,
+      "status": "Closed",
+      "days_open": 17
+    },
+    {
+      "id": "SI-1007",
+      "supplier": "Dunmore Composites",
+      "severity": "Medium",
+      "opened_week": 35,
+      "status": "Closed",
+      "days_open": 14
+    },
+    {
+      "id": "SI-1008",
+      "supplier": "Granite Machining",
+      "severity": "Low",
+      "opened_week": 4,
+      "status": "Closed",
+      "days_open": 15
+    },
+    {
+      "id": "SI-1009",
+      "supplier": "Cobalt Fasteners",
+      "severity": "Medium",
+      "opened_week": 38,
+      "status": "Closed",
+      "days_open": 30
+    },
+    {
+      "id": "SI-1010",
+      "supplier": "Lumen Power",
+      "severity": "Low",
+      "opened_week": 40,
+      "status": "Closed",
+      "days_open": 27
+    },
+    {
+      "id": "SI-1011",
+      "supplier": "Ironwood Alloys",
+      "severity": "Medium",
+      "opened_week": 49,
+      "status": "Closed",
+      "days_open": 6
+    },
+    {
+      "id": "SI-1012",
+      "supplier": "Lumen Power",
+      "severity": "Medium",
+      "opened_week": 35,
+      "status": "Open",
+      "days_open": 12
+    },
+    {
+      "id": "SI-1013",
+      "supplier": "Ironwood Alloys",
+      "severity": "Low",
+      "opened_week": 31,
+      "status": "Closed",
+      "days_open": 32
+    },
+    {
+      "id": "SI-1014",
+      "supplier": "Cobalt Fasteners",
+      "severity": "High",
+      "opened_week": 5,
+      "status": "Open",
+      "days_open": 78
+    },
+    {
+      "id": "SI-1015",
+      "supplier": "Juniper Optics",
+      "severity": "Low",
+      "opened_week": 26,
+      "status": "Closed",
+      "days_open": 21
+    },
+    {
+      "id": "SI-1016",
+      "supplier": "Apex Castings",
+      "severity": "Medium",
+      "opened_week": 46,
+      "status": "Closed",
+      "days_open": 31
+    },
+    {
+      "id": "SI-1017",
+      "supplier": "Juniper Optics",
+      "severity": "Low",
+      "opened_week": 15,
+      "status": "Closed",
+      "days_open": 16
+    },
+    {
+      "id": "SI-1018",
+      "supplier": "Juniper Optics",
+      "severity": "Critical",
+      "opened_week": 12,
+      "status": "Open",
+      "days_open": 43
+    },
+    {
+      "id": "SI-1019",
+      "supplier": "Keystone Seals",
+      "severity": "Medium",
+      "opened_week": 45,
+      "status": "Closed",
+      "days_open": 33
+    },
+    {
+      "id": "SI-1020",
+      "supplier": "Cobalt Fasteners",
+      "severity": "High",
+      "opened_week": 7,
+      "status": "Closed",
+      "days_open": 6
+    },
+    {
+      "id": "SI-1021",
+      "supplier": "Helix Sensors",
+      "severity": "Critical",
+      "opened_week": 30,
+      "status": "Closed",
+      "days_open": 26
+    },
+    {
+      "id": "SI-1022",
+      "supplier": "Brightline Electronics",
+      "severity": "Medium",
+      "opened_week": 49,
+      "status": "Open",
+      "days_open": 7
+    },
+    {
+      "id": "SI-1023",
+      "supplier": "Dunmore Composites",
+      "severity": "High",
+      "opened_week": 7,
+      "status": "Closed",
+      "days_open": 5
+    },
+    {
+      "id": "SI-1024",
+      "supplier": "Granite Machining",
+      "severity": "Low",
+      "opened_week": 38,
+      "status": "Closed",
+      "days_open": 30
+    },
+    {
+      "id": "SI-1025",
+      "supplier": "Brightline Electronics",
+      "severity": "Medium",
+      "opened_week": 25,
+      "status": "Closed",
+      "days_open": 21
+    },
+    {
+      "id": "SI-1026",
+      "supplier": "Granite Machining",
+      "severity": "Medium",
+      "opened_week": 6,
+      "status": "Closed",
+      "days_open": 15
+    },
+    {
+      "id": "SI-1027",
+      "supplier": "Cobalt Fasteners",
+      "severity": "Medium",
+      "opened_week": 25,
+      "status": "Closed",
+      "days_open": 32
+    },
+    {
+      "id": "SI-1028",
+      "supplier": "Granite Machining",
+      "severity": "Low",
+      "opened_week": 30,
+      "status": "Closed",
+      "days_open": 9
+    },
+    {
+      "id": "SI-1029",
+      "supplier": "Juniper Optics",
+      "severity": "Medium",
+      "opened_week": 50,
+      "status": "Open",
+      "days_open": 5
+    },
+    {
+      "id": "SI-1030",
+      "supplier": "Keystone Seals",
+      "severity": "Medium",
+      "opened_week": 13,
+      "status": "Open",
+      "days_open": 62
+    },
+    {
+      "id": "SI-1031",
+      "supplier": "Apex Castings",
+      "severity": "Medium",
+      "opened_week": 33,
+      "status": "Closed",
+      "days_open": 14
+    },
+    {
+      "id": "SI-1032",
+      "supplier": "Cobalt Fasteners",
+      "severity": "Critical",
+      "opened_week": 20,
+      "status": "Closed",
+      "days_open": 34
+    },
+    {
+      "id": "SI-1033",
+      "supplier": "Keystone Seals",
+      "severity": "Low",
+      "opened_week": 37,
+      "status": "Closed",
+      "days_open": 19
+    },
+    {
+      "id": "SI-1034",
+      "supplier": "Dunmore Composites",
+      "severity": "High",
+      "opened_week": 17,
+      "status": "Closed",
+      "days_open": 32
+    },
+    {
+      "id": "SI-1035",
+      "supplier": "Brightline Electronics",
+      "severity": "High",
+      "opened_week": 4,
+      "status": "Closed",
+      "days_open": 32
+    },
+    {
+      "id": "SI-1036",
+      "supplier": "Juniper Optics",
+      "severity": "Medium",
+      "opened_week": 4,
+      "status": "Closed",
+      "days_open": 32
+    },
+    {
+      "id": "SI-1037",
+      "supplier": "Lumen Power",
+      "severity": "Low",
+      "opened_week": 24,
+      "status": "Closed",
+      "days_open": 8
+    },
+    {
+      "id": "SI-1038",
+      "supplier": "Cobalt Fasteners",
+      "severity": "Low",
+      "opened_week": 42,
+      "status": "Open",
+      "days_open": 25
+    },
+    {
+      "id": "SI-1039",
+      "supplier": "Juniper Optics",
+      "severity": "High",
+      "opened_week": 5,
+      "status": "Open",
+      "days_open": 116
+    },
+    {
+      "id": "SI-1040",
+      "supplier": "Dunmore Composites",
+      "severity": "Low",
+      "opened_week": 19,
+      "status": "Closed",
+      "days_open": 33
+    },
+    {
+      "id": "SI-1041",
+      "supplier": "Keystone Seals",
+      "severity": "Medium",
+      "opened_week": 29,
+      "status": "Open",
+      "days_open": 50
+    },
+    {
+      "id": "SI-1042",
+      "supplier": "Dunmore Composites",
+      "severity": "Medium",
+      "opened_week": 40,
+      "status": "Closed",
+      "days_open": 18
+    },
+    {
+      "id": "SI-1043",
+      "supplier": "Brightline Electronics",
+      "severity": "Medium",
+      "opened_week": 19,
+      "status": "Closed",
+      "days_open": 6
+    },
+    {
+      "id": "SI-1044",
+      "supplier": "Keystone Seals",
+      "severity": "Medium",
+      "opened_week": 30,
+      "status": "Open",
+      "days_open": 17
+    },
+    {
+      "id": "SI-1045",
+      "supplier": "Cobalt Fasteners",
+      "severity": "Low",
+      "opened_week": 32,
+      "status": "Open",
+      "days_open": 23
+    },
+    {
+      "id": "SI-1046",
+      "supplier": "Apex Castings",
+      "severity": "Critical",
+      "opened_week": 20,
+      "status": "Open",
+      "days_open": 25
+    },
+    {
+      "id": "SI-1047",
+      "supplier": "Apex Castings",
+      "severity": "Low",
+      "opened_week": 13,
+      "status": "Closed",
+      "days_open": 32
+    },
+    {
+      "id": "SI-1048",
+      "supplier": "Helix Sensors",
+      "severity": "Critical",
+      "opened_week": 8,
+      "status": "Closed",
+      "days_open": 21
+    },
+    {
+      "id": "SI-1049",
+      "supplier": "Juniper Optics",
+      "severity": "Low",
+      "opened_week": 33,
+      "status": "Closed",
+      "days_open": 19
+    },
+    {
+      "id": "SI-1050",
+      "supplier": "Brightline Electronics",
+      "severity": "Critical",
+      "opened_week": 34,
+      "status": "Closed",
+      "days_open": 30
+    },
+    {
+      "id": "SI-1051",
+      "supplier": "Falcon Wire & Cable",
+      "severity": "Low",
+      "opened_week": 5,
+      "status": "Open",
+      "days_open": 70
+    },
+    {
+      "id": "SI-1052",
+      "supplier": "Helix Sensors",
+      "severity": "Medium",
+      "opened_week": 17,
+      "status": "Closed",
+      "days_open": 27
+    },
+    {
+      "id": "SI-1053",
+      "supplier": "Ironwood Alloys",
+      "severity": "Medium",
+      "opened_week": 17,
+      "status": "Closed",
+      "days_open": 8
+    },
+    {
+      "id": "SI-1054",
+      "supplier": "Ironwood Alloys",
+      "severity": "High",
+      "opened_week": 43,
+      "status": "Closed",
+      "days_open": 10
+    },
+    {
+      "id": "SI-1055",
+      "supplier": "Brightline Electronics",
+      "severity": "Low",
+      "opened_week": 49,
+      "status": "Open",
+      "days_open": 5
+    },
+    {
+      "id": "SI-1056",
+      "supplier": "Dunmore Composites",
+      "severity": "Medium",
+      "opened_week": 28,
+      "status": "Closed",
+      "days_open": 19
+    },
+    {
+      "id": "SI-1057",
+      "supplier": "Falcon Wire & Cable",
+      "severity": "Medium",
+      "opened_week": 52,
+      "status": "Open",
+      "days_open": 0
+    },
+    {
+      "id": "SI-1058",
+      "supplier": "Cobalt Fasteners",
+      "severity": "Medium",
+      "opened_week": 51,
+      "status": "Open",
+      "days_open": 2
+    },
+    {
+      "id": "SI-1059",
+      "supplier": "Lumen Power",
+      "severity": "Low",
+      "opened_week": 12,
+      "status": "Closed",
+      "days_open": 22
+    },
+    {
+      "id": "SI-1060",
+      "supplier": "Juniper Optics",
+      "severity": "Medium",
+      "opened_week": 26,
+      "status": "Closed",
+      "days_open": 31
+    },
+    {
+      "id": "SI-1061",
+      "supplier": "Juniper Optics",
+      "severity": "Medium",
+      "opened_week": 43,
+      "status": "Closed",
+      "days_open": 26
+    },
+    {
+      "id": "SI-1062",
+      "supplier": "Dunmore Composites",
+      "severity": "High",
+      "opened_week": 24,
+      "status": "Closed",
+      "days_open": 23
+    },
+    {
+      "id": "SI-1063",
+      "supplier": "Ironwood Alloys",
+      "severity": "Medium",
+      "opened_week": 19,
+      "status": "Open",
+      "days_open": 48
+    },
+    {
+      "id": "SI-1064",
+      "supplier": "Apex Castings",
+      "severity": "High",
+      "opened_week": 32,
+      "status": "Closed",
+      "days_open": 16
+    },
+    {
+      "id": "SI-1065",
+      "supplier": "Cobalt Fasteners",
+      "severity": "Medium",
+      "opened_week": 39,
+      "status": "Closed",
+      "days_open": 20
+    },
+    {
+      "id": "SI-1066",
+      "supplier": "Brightline Electronics",
+      "severity": "Low",
+      "opened_week": 19,
+      "status": "Closed",
+      "days_open": 7
+    },
+    {
+      "id": "SI-1067",
+      "supplier": "Dunmore Composites",
+      "severity": "High",
+      "opened_week": 39,
+      "status": "Closed",
+      "days_open": 26
+    },
+    {
+      "id": "SI-1068",
+      "supplier": "Everett Propulsion Parts",
+      "severity": "Low",
+      "opened_week": 6,
+      "status": "Closed",
+      "days_open": 33
+    },
+    {
+      "id": "SI-1069",
+      "supplier": "Keystone Seals",
+      "severity": "Medium",
+      "opened_week": 16,
+      "status": "Closed",
+      "days_open": 9
+    }
+  ],
+  "milestones": [
+    {
+      "name": "Design Freeze",
+      "planned_date": "2026-01-26",
+      "forecast_date": "2026-01-26",
+      "slip_weeks": 0,
+      "status": "Complete"
+    },
+    {
+      "name": "Tooling Qualified",
+      "planned_date": "2026-03-09",
+      "forecast_date": "2026-03-16",
+      "slip_weeks": 1,
+      "status": "Complete"
+    },
+    {
+      "name": "First Article Build",
+      "planned_date": "2026-04-20",
+      "forecast_date": "2026-05-04",
+      "slip_weeks": 2,
+      "status": "Complete"
+    },
+    {
+      "name": "First Article Inspection",
+      "planned_date": "2026-05-18",
+      "forecast_date": "2026-06-08",
+      "slip_weeks": 3,
+      "status": "Complete"
+    },
+    {
+      "name": "Supplier Readiness Review",
+      "planned_date": "2026-06-29",
+      "forecast_date": "2026-07-27",
+      "slip_weeks": 4,
+      "status": "Complete"
+    },
+    {
+      "name": "Qualification Testing",
+      "planned_date": "2026-08-24",
+      "forecast_date": "2026-09-28",
+      "slip_weeks": 5,
+      "status": "In Progress"
+    },
+    {
+      "name": "Low-Rate Production Start",
+      "planned_date": "2026-10-05",
+      "forecast_date": "2026-11-16",
+      "slip_weeks": 6,
+      "status": "At Risk"
+    },
+    {
+      "name": "Customer Acceptance",
+      "planned_date": "2026-11-16",
+      "forecast_date": "2026-12-28",
+      "slip_weeks": 6,
+      "status": "At Risk"
+    },
+    {
+      "name": "Full-Rate Readiness",
+      "planned_date": "2026-12-28",
+      "forecast_date": "2027-02-15",
+      "slip_weeks": 7,
+      "status": "Planned"
+    }
+  ]
+}

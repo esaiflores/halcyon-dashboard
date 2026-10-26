@@ -1,0 +1,13 @@
+.legend {
+    display: flex;
+    align-items: center;
+    gap: var(--space-2);
+    margin-top: var(--space-4);
+    color: var(--color-text-muted);
+    font-size: 0.8rem;
+}
+.legend-bar {
+    width: 220px;
+    height: 10px;
+    border-radius: 5px;
+}

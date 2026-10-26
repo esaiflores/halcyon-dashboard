@@ -1,0 +1,1 @@
+export const TARGET = 3; // max acceptable defect rate (%), a placeholder assumption
